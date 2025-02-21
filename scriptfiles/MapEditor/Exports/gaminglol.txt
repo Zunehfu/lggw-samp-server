@@ -1,0 +1,151 @@
+/*
+Exported using MapForce MapEditor
+---------------------------------
+Creator: GameOvr
+Created On: [ 2020.6.0 | 21.27.49 ]
+Objects: 44
+Vehicles: 0
+Actors: 1
+*/
+
+//Objects
+new objid;
+objid = CreateDynamicObject(2932, 1394.166748, -825.435913, 64.683387, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1394.175659, -825.435913, 71.833221, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1399.286499, -825.435913, 73.823226, 180.000000, 90.000000, 450.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1399.286499, -825.435913, 62.643280, 180.000000, 90.000000, 450.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1401.326416, -825.445922, 64.683387, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1398.893310, -824.001892, 68.245384, 0.000000, 90.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1398.893310, -826.862060, 68.245384, 0.000000, 90.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1400.613891, -825.501953, 68.245384, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1399.054443, -825.501953, 68.245384, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1399.054443, -825.501953, 66.725387, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1400.615600, -825.501953, 66.725387, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1397.524414, -825.391845, 68.245384, 180.000000, 270.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1406.164306, -825.445922, 64.504882, -70.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1408.616455, -825.445922, 71.242378, -70.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1413.782836, -825.465942, 71.259742, -110.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1416.228027, -825.465942, 64.541038, -110.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1411.096801, -825.435913, 66.823249, 180.000000, 90.000000, 450.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1422.196533, -825.435913, 71.833221, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1422.196533, -825.435913, 64.683410, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1424.633666, -825.325805, 71.634407, -125.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1431.129760, -825.325805, 71.628738, -55.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1461.433349, -825.435913, 64.683334, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1433.557617, -825.435913, 71.833221, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1433.557617, -825.435913, 64.683334, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1440.509887, -825.435913, 64.683334, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1440.509887, -825.425903, 68.253219, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1446.841674, -825.435913, 64.683334, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1446.841674, -825.435913, 71.833251, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1449.273315, -825.405883, 71.644363, -55.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1453.375244, -825.405883, 65.787567, -55.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1455.802368, -825.435913, 72.683258, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1455.802368, -825.435913, 65.543273, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1461.433349, -825.435913, 71.833297, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1455.802368, -825.435913, 72.683258, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1466.556884, -825.435913, 62.643280, 180.000000, 90.000000, 450.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1468.585083, -825.445922, 64.683334, -90.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1465.926757, -826.852233, 68.253921, 0.000000, 90.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1465.926757, -823.992553, 68.253921, 0.000000, 90.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1466.096923, -825.492553, 66.733879, 90.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1467.656127, -825.492553, 66.733879, 90.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1467.656127, -825.492553, 68.243904, 90.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1466.096191, -825.492553, 68.243904, 90.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(3062, 1464.586303, -825.492553, 66.693901, 180.000000, 90.000000, 90.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+objid = CreateDynamicObject(2932, 1466.556884, -825.435913, 73.843215, 180.000000, 90.000000, 450.000000);
+SetDynamicObjectMaterial(objid, 0, 9514, 711_sfw, mono1_sfe);
+SetDynamicObjectMaterial(objid, 1, 9514, 711_sfw, mono1_sfe);
+
+//Actors
+new actorid;
+actorid = CreateDynamicActor(145, 1450.493530, -825.405578, 74.317245, 181.377304);
+ApplyDynamicActorAnimation(actorid, "DANCING", "dnce_M_a", 4.0, 1, 0, 0, 0, -1);
+
+//Vehicles

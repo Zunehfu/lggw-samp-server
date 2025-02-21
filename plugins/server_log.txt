@@ -1,0 +1,39 @@
+[15:41:10] |MapForce| Maps have been automatically saved for safety
+[15:41:30] [connection] 112.134.38.147:2247 requests connection cookie.
+[15:41:31] [connection] incoming connection: 112.134.38.147:2247 id: 0
+[15:41:32] [join] GameOvr has joined the server (0:112.134.38.147)
+[15:42:11] |MapForce| Maps have been automatically saved for safety
+[15:43:12] |MapForce| Maps have been automatically saved for safety
+[15:44:13] |MapForce| Maps have been automatically saved for safety
+[15:44:39] [connection] 112.135.1.63:32008 requests connection cookie.
+[15:44:40] [connection] incoming connection: 112.135.1.63:32008 id: 1
+[15:44:45] [connection] incoming connection: 112.135.1.63:31680 id: 2
+[15:44:45] [join] _.EvilExecutor._ has joined the server (2:112.135.1.63)
+[15:45:14] |MapForce| Maps have been automatically saved for safety
+[15:45:35] [chat] [GameOvr]: :|
+[15:45:37] [chat] [_.EvilExecutor._]: wtf
+[15:45:39] [chat] [GameOvr]: keys
+[15:45:42] [chat] [_.EvilExecutor._]: its 18+
+[15:45:43] [chat] [GameOvr]: again
+[15:45:44] [chat] [_.EvilExecutor._]: :(
+[15:45:47] [chat] [GameOvr]: lol
+[15:45:51] [chat] [GameOvr]: goo man
+[15:45:53] [chat] [GameOvr]: gooo
+[15:45:58] [chat] [GameOvr]: 18
+[15:46:15] |MapForce| Maps have been automatically saved for safety
+[15:46:46] [chat] [_.EvilExecutor._]: lol
+[15:47:01] [chat] [_.EvilExecutor._]: srsly?
+[15:47:16] |MapForce| Maps have been automatically saved for safety
+[15:48:11] [chat] [GameOvr]: lmao
+[15:48:15] [chat] [_.EvilExecutor._]: whts this lol
+[15:48:17] |MapForce| Maps have been automatically saved for safety
+[15:48:20] [chat] [_.EvilExecutor._]: ok gotta go
+[15:48:27] [chat] [_.EvilExecutor._]: watching a theme
+[15:48:29] [chat] [_.EvilExecutor._]: :D
+[15:48:35] [chat] [GameOvr]: wf
+[15:49:18] |MapForce| Maps have been automatically saved for safety
+[15:49:49] [part] _.EvilExecutor._ has left the server (2:1)
+[15:50:19] |MapForce| Maps have been automatically saved for safety
+[15:51:20] |MapForce| Maps have been automatically saved for safety
+[15:52:21] |MapForce| Maps have been automatically saved for safety
+[15:53:22] |MapForce| Maps have been automatically saved for safety

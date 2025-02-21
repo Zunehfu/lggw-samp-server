@@ -1,0 +1,30 @@
+/*
+Exported using MapForce MapEditor
+---------------------------------
+Creator: GameOvr
+Created On: [ 2020.6.0 | 22.52.5 ]
+Objects: 7
+Vehicles: 0
+Actors: 0
+*/
+
+//Objects
+new objid;
+objid = CreateDynamicObject(19406, 1314.686523, -1675.241821, 13.382809, 0.000000, 0.000000, 0.000000);
+objid = CreateDynamicObject(19604, 1313.858520, -1676.033325, 13.382809, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "progameover", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+objid = CreateDynamicObject(19604, 1309.947021, -1676.033325, 13.382809, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "progameover", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+objid = CreateDynamicObject(19604, 1309.947021, -1671.081298, 16.962848, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "progameover", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+objid = CreateDynamicObject(988, 1469.089965, -1587.771362, 13.546875, 0.000000, 0.000000, 0.000000);
+MoveDynamicObject(objid, 1469.089965, -1585.771362, 16.546875, 0.875006, 0.000000, 0.000000, 0.000000);
+objid = CreateDynamicObject(988, 1482.179443, -1595.742675, 13.382810, 0.000000, 0.000000, 0.000000);
+MoveDynamicObject(objid, 1485.179443, -1587.742675, 14.382810, 1.000000, 0.000000, 0.000000, 0.000000);
+objid = CreateDynamicObject(988, 1462.194580, -1597.660644, 13.796875, 0.000000, 0.000000, 0.000000);
+MoveDynamicObject(objid, 1464.194580, -1589.660644, 14.796875, 4.153310, 0.000000, 0.000000, 0.000000);
+
+//Actors
+new actorid;
+
+//Vehicles

@@ -1,0 +1,28 @@
+/* Exported using GEditor made by GameOvr */
+
+//Objects
+new objid;
+objid = CreateDynamicObject(19604, 2886.770263, -1383.375122, 11.093750, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "GEditor", 90, "Georgia", 30, 1, 0xFFFFFFFF, 0x90, 1);
+objid = CreateDynamicObject(2395, 2870.837402, -1367.788696, 10.921875, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "font name", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+objid = CreateDynamicObject(3964, 2863.202636, -1367.053955, 10.941881, 180.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "font name", 90, "Arial", 7, 1, 0xFFFFFFFF, 0x0, 0);
+objid = CreateDynamicObject(2650, 2871.612792, -1355.296875, 10.923752, 0.000000, 0.000000, 0.000000);
+objid = CreateDynamicObject(1625, 2877.251220, -1363.001586, 12.871874, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "hell", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+objid = CreateDynamicObject(3064, 2871.254150, -1387.956909, 12.216855, 0.000000, 89.800003, 1.899999);
+SetDynamicObjectMaterialText(objid, 0, "OMG", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(objid, 1, "OMG", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+objid = CreateDynamicObject(3063, 2876.387451, -1384.431762, 10.051121, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "hello", 90, "Arial", 35, 1, 0xFF000000, 0xFFFFFFFF, 1);
+SetDynamicObjectMaterial(objid, 1, 10101, 2notherbuildsfe, Bow_church_grass_alt);
+SetDynamicObjectMaterialText(objid, 1, "          ", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(objid, 2, 0, INVALID, INVALID);
+SetDynamicObjectMaterial(objid, 3, 0, INVALID, INVALID);
+SetDynamicObjectMaterial(objid, 4, 0, INVALID, INVALID);
+SetDynamicObjectMaterial(objid, 5, 0, INVALID, INVALID);
+
+//Actors
+
+//Vehicles

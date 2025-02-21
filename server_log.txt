@@ -1,0 +1,2378 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:38] filterscripts = ""  (string)
+[22:03:38] 
+[22:03:38] Server Plugins
+[22:03:38] --------------
+[22:03:38]  Loading plugin: crashdetect
+[22:03:38]   CrashDetect plugin 4.19.4
+[22:03:38]   Loaded.
+[22:03:38]  Loading plugin: streamer
+[22:03:38] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[22:03:38]   Loaded.
+[22:03:38]  Loading plugin: mysql
+[22:03:38]  >> plugin.mysql: R41-4 successfully loaded.
+[22:03:38]   Loaded.
+[22:03:38]  Loading plugin: timerfix
+[22:03:38]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[22:03:38]   Loaded.
+[22:03:38]  Loading plugin: sscanf
+[22:03:38] 
+
+[22:03:38]  ===============================
+
+[22:03:38]       sscanf plugin loaded.     
+
+[22:03:38]          Version:  2.8.3        
+
+[22:03:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:03:38]  ===============================
+
+[22:03:38]   Loaded.
+[22:03:38]  Loading plugin: pawncmd
+[22:03:38] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:03:38]   Loaded.
+[22:03:38]  Loading plugin: SKY
+[22:03:38]   Loaded.
+[22:03:38]  Loading plugin: bcrypt-samp
+[22:03:38]   plugin.bcrypt v2.2.2 was loaded.
+[22:03:38]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[22:03:38]   Loaded.
+[22:03:38]  Loading plugin: nativechecker
+[22:03:38]   Loaded.
+[22:03:38]  Loaded 9 plugins.
+
+[22:03:39] 
+[22:03:39] Filterscripts
+[22:03:39] ---------------
+[22:03:39]   Loaded 0 filterscripts.
+
+[22:03:39]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:03:39]  
+[22:03:39]  
+[22:03:39]  
+[22:03:39]  ======================================= 
+[22:03:39]  |                                     | 
+[22:03:39]  |        YSI version 4.00.0001        | 
+[22:03:39]  |        By Alex "Y_Less" Cole        | 
+[22:03:39]  |                                     | 
+[22:03:39]  ======================================= 
+[22:03:39]  
+[22:03:39] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:03:39] [ SERVER ] MySQL - > I couldn't connect to the MySQL server, closing...
+[22:03:39] _________________________________________________________________
+[22:03:39] |								|
+[22:03:39] |								|
+[22:03:39] |		//      ////////  ////////  //       //		|
+[22:03:39] |		//	//	  //	    //	    //		|
+[22:03:39] |		//	//  ////  //  ////  //	   //		|
+[22:03:39] |		//	//    //  //    //  // // // 		|
+[22:03:39] |		///////	////////  ////////  /// ///		|
+[22:03:39] |								|
+[22:03:39] | 								|
+[22:03:39] |                                                                |
+[22:03:39] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[22:03:39] | Version - v 1.03                              	|
+[22:03:39] | Forum - https://www.lg-gw.ga                   		|
+[22:03:39] |                                                                |
+[22:03:39] | >> Script By GameOvr <<                                        |
+[22:03:39] |                                                                |
+[22:03:39] | Contributors :-                                                |
+[22:03:39] | 	GameOvr : Scripting + Mapping                           |
+[22:03:39] | 	GREAT_BATTLER : LGGW Forum                              |
+[22:03:39] | 	Scorpion : Discord server                               |
+[22:03:39] | 	Husam_Haider : Sponsership                              |
+[22:03:39] | 	                                                        |
+[22:03:39] | @All Rights Reserved                                           |
+[22:03:39] |________________________________________________________________|
+[22:03:39] Number of vehicle models: 0
+[22:03:39] --- Server Shutting Down.
+[22:03:39] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:03:39] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[22:03:39] plugin.mysql: Unloading plugin...
+[22:03:39] plugin.mysql: Plugin unloaded.
+[22:03:39] Timer Fix plugin v1.1.1 unloaded.
+[22:03:39] 
+
+[22:03:39]  ===============================
+
+[22:03:39]      sscanf plugin unloaded.    
+
+[22:03:39]  ===============================
+
+[22:03:39] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[22:03:39] plugin.bcrypt: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:16:48] filterscripts = ""  (string)
+[22:16:48] 
+[22:16:48] Server Plugins
+[22:16:48] --------------
+[22:16:48]  Loading plugin: crashdetect
+[22:16:48]   CrashDetect plugin 4.19.4
+[22:16:48]   Loaded.
+[22:16:48]  Loading plugin: streamer
+[22:16:48] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[22:16:48]   Loaded.
+[22:16:48]  Loading plugin: mysql
+[22:16:48]  >> plugin.mysql: R41-4 successfully loaded.
+[22:16:48]   Loaded.
+[22:16:48]  Loading plugin: timerfix
+[22:16:48]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[22:16:48]   Loaded.
+[22:16:48]  Loading plugin: sscanf
+[22:16:48] 
+
+[22:16:48]  ===============================
+
+[22:16:48]       sscanf plugin loaded.     
+
+[22:16:48]          Version:  2.8.3        
+
+[22:16:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:16:48]  ===============================
+
+[22:16:48]   Loaded.
+[22:16:48]  Loading plugin: pawncmd
+[22:16:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:16:48]   Loaded.
+[22:16:48]  Loading plugin: SKY
+[22:16:48]   Loaded.
+[22:16:48]  Loading plugin: bcrypt-samp
+[22:16:48]   plugin.bcrypt v2.2.2 was loaded.
+[22:16:48]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[22:16:48]   Loaded.
+[22:16:48]  Loading plugin: nativechecker
+[22:16:48]   Loaded.
+[22:16:48]  Loaded 9 plugins.
+
+[22:16:48] 
+[22:16:48] Filterscripts
+[22:16:48] ---------------
+[22:16:48]   Loaded 0 filterscripts.
+
+[22:16:48]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:16:48]  
+[22:16:48]  
+[22:16:48]  
+[22:16:48]  ======================================= 
+[22:16:48]  |                                     | 
+[22:16:48]  |        YSI version 4.00.0001        | 
+[22:16:48]  |        By Alex "Y_Less" Cole        | 
+[22:16:48]  |                                     | 
+[22:16:48]  ======================================= 
+[22:16:48]  
+[22:16:48] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:16:48] [ SERVER ] MySQL - > I couldn't connect to the MySQL server, closing...
+[22:16:48] _________________________________________________________________
+[22:16:48] |								|
+[22:16:48] |								|
+[22:16:48] |		//      ////////  ////////  //       //		|
+[22:16:48] |		//	//	  //	    //	    //		|
+[22:16:48] |		//	//  ////  //  ////  //	   //		|
+[22:16:48] |		//	//    //  //    //  // // // 		|
+[22:16:48] |		///////	////////  ////////  /// ///		|
+[22:16:48] |								|
+[22:16:48] | 								|
+[22:16:48] |                                                                |
+[22:16:48] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[22:16:48] | Version - v 1.03                              	|
+[22:16:48] | Forum - https://www.lg-gw.ga                   		|
+[22:16:48] |                                                                |
+[22:16:48] | >> Script By GameOvr <<                                        |
+[22:16:48] |                                                                |
+[22:16:48] | Contributors :-                                                |
+[22:16:48] | 	GameOvr : Scripting + Mapping                           |
+[22:16:48] | 	GREAT_BATTLER : LGGW Forum                              |
+[22:16:48] | 	Scorpion : Discord server                               |
+[22:16:48] | 	Husam_Haider : Sponsership                              |
+[22:16:48] | 	                                                        |
+[22:16:48] | @All Rights Reserved                                           |
+[22:16:48] |________________________________________________________________|
+[22:16:48] Number of vehicle models: 0
+[22:16:48] --- Server Shutting Down.
+[22:16:48] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:16:48] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[22:16:48] plugin.mysql: Unloading plugin...
+[22:16:48] plugin.mysql: Plugin unloaded.
+[22:16:48] Timer Fix plugin v1.1.1 unloaded.
+[22:16:48] 
+
+[22:16:48]  ===============================
+
+[22:16:48]      sscanf plugin unloaded.    
+
+[22:16:48]  ===============================
+
+[22:16:48] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[22:16:48] plugin.bcrypt: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:21:42] filterscripts = ""  (string)
+[22:21:42] 
+[22:21:42] Server Plugins
+[22:21:42] --------------
+[22:21:42]  Loading plugin: crashdetect
+[22:21:42]   CrashDetect plugin 4.19.4
+[22:21:42]   Loaded.
+[22:21:42]  Loading plugin: streamer
+[22:21:42] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[22:21:42]   Loaded.
+[22:21:42]  Loading plugin: mysql
+[22:21:42]  >> plugin.mysql: R41-4 successfully loaded.
+[22:21:42]   Loaded.
+[22:21:42]  Loading plugin: timerfix
+[22:21:42]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[22:21:42]   Loaded.
+[22:21:42]  Loading plugin: sscanf
+[22:21:42] 
+
+[22:21:42]  ===============================
+
+[22:21:42]       sscanf plugin loaded.     
+
+[22:21:42]          Version:  2.8.3        
+
+[22:21:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:21:42]  ===============================
+
+[22:21:42]   Loaded.
+[22:21:42]  Loading plugin: pawncmd
+[22:21:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:21:42]   Loaded.
+[22:21:42]  Loading plugin: SKY
+[22:21:42]   Loaded.
+[22:21:42]  Loading plugin: bcrypt-samp
+[22:21:42]   plugin.bcrypt v2.2.2 was loaded.
+[22:21:42]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[22:21:42]   Loaded.
+[22:21:42]  Loading plugin: nativechecker
+[22:21:42]   Loaded.
+[22:21:42]  Loaded 9 plugins.
+
+[22:21:42] 
+[22:21:42] Filterscripts
+[22:21:42] ---------------
+[22:21:42]   Loaded 0 filterscripts.
+
+[22:21:43]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:21:43]  
+[22:21:43]  
+[22:21:43]  
+[22:21:43]  ======================================= 
+[22:21:43]  |                                     | 
+[22:21:43]  |        YSI version 4.00.0001        | 
+[22:21:43]  |        By Alex "Y_Less" Cole        | 
+[22:21:43]  |                                     | 
+[22:21:43]  ======================================= 
+[22:21:43]  
+[22:21:43] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:21:43] [ SERVER ] MySQL - > I couldn't connect to the MySQL server, closing...
+[22:21:43] _________________________________________________________________
+[22:21:43] |								|
+[22:21:43] |								|
+[22:21:43] |		//      ////////  ////////  //       //		|
+[22:21:43] |		//	//	  //	    //	    //		|
+[22:21:43] |		//	//  ////  //  ////  //	   //		|
+[22:21:43] |		//	//    //  //    //  // // // 		|
+[22:21:43] |		///////	////////  ////////  /// ///		|
+[22:21:43] |								|
+[22:21:43] | 								|
+[22:21:43] |                                                                |
+[22:21:43] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[22:21:43] | Version - v 1.03                              	|
+[22:21:43] | Forum - https://www.lg-gw.ga                   		|
+[22:21:43] |                                                                |
+[22:21:43] | >> Script By GameOvr <<                                        |
+[22:21:43] |                                                                |
+[22:21:43] | Contributors :-                                                |
+[22:21:43] | 	GameOvr : Scripting + Mapping                           |
+[22:21:43] | 	GREAT_BATTLER : LGGW Forum                              |
+[22:21:43] | 	Scorpion : Discord server                               |
+[22:21:43] | 	Husam_Haider : Sponsership                              |
+[22:21:43] | 	                                                        |
+[22:21:43] | @All Rights Reserved                                           |
+[22:21:43] |________________________________________________________________|
+[22:21:43] Number of vehicle models: 0
+[22:21:43] --- Server Shutting Down.
+[22:21:43] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:21:43] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[22:21:43] plugin.mysql: Unloading plugin...
+[22:21:43] plugin.mysql: Plugin unloaded.
+[22:21:43] Timer Fix plugin v1.1.1 unloaded.
+[22:21:43] 
+
+[22:21:43]  ===============================
+
+[22:21:43]      sscanf plugin unloaded.    
+
+[22:21:43]  ===============================
+
+[22:21:43] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[22:21:43] plugin.bcrypt: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:27:08] filterscripts = ""  (string)
+[22:27:08] 
+[22:27:08] Server Plugins
+[22:27:08] --------------
+[22:27:08]  Loading plugin: crashdetect
+[22:27:08]   CrashDetect plugin 4.19.4
+[22:27:08]   Loaded.
+[22:27:08]  Loading plugin: streamer
+[22:27:08] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[22:27:08]   Loaded.
+[22:27:08]  Loading plugin: mysql
+[22:27:08]  >> plugin.mysql: R41-4 successfully loaded.
+[22:27:08]   Loaded.
+[22:27:08]  Loading plugin: timerfix
+[22:27:08]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[22:27:08]   Loaded.
+[22:27:08]  Loading plugin: sscanf
+[22:27:08] 
+
+[22:27:08]  ===============================
+
+[22:27:08]       sscanf plugin loaded.     
+
+[22:27:08]          Version:  2.8.3        
+
+[22:27:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:27:08]  ===============================
+
+[22:27:08]   Loaded.
+[22:27:08]  Loading plugin: pawncmd
+[22:27:08] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:27:08]   Loaded.
+[22:27:08]  Loading plugin: SKY
+[22:27:08]   Loaded.
+[22:27:08]  Loading plugin: bcrypt-samp
+[22:27:08]   plugin.bcrypt v2.2.2 was loaded.
+[22:27:08]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[22:27:08]   Loaded.
+[22:27:08]  Loading plugin: nativechecker
+[22:27:08]   Loaded.
+[22:27:08]  Loaded 9 plugins.
+
+[22:27:08] 
+[22:27:08] Filterscripts
+[22:27:08] ---------------
+[22:27:08]   Loaded 0 filterscripts.
+
+[22:27:08]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:27:08]  
+[22:27:08]  
+[22:27:08]  
+[22:27:08]  ======================================= 
+[22:27:08]  |                                     | 
+[22:27:08]  |        YSI version 4.00.0001        | 
+[22:27:08]  |        By Alex "Y_Less" Cole        | 
+[22:27:08]  |                                     | 
+[22:27:08]  ======================================= 
+[22:27:08]  
+[22:27:09] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:27:09] [ SERVER ] MySQL - > I couldn't connect to the MySQL server, closing...
+[22:27:09] _________________________________________________________________
+[22:27:09] |								|
+[22:27:09] |								|
+[22:27:09] |		//      ////////  ////////  //       //		|
+[22:27:09] |		//	//	  //	    //	    //		|
+[22:27:09] |		//	//  ////  //  ////  //	   //		|
+[22:27:09] |		//	//    //  //    //  // // // 		|
+[22:27:09] |		///////	////////  ////////  /// ///		|
+[22:27:09] |								|
+[22:27:09] | 								|
+[22:27:09] |                                                                |
+[22:27:09] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[22:27:09] | Version - v 1.03                              	|
+[22:27:09] | Forum - https://www.lg-gw.ga                   		|
+[22:27:09] |                                                                |
+[22:27:09] | >> Script By GameOvr <<                                        |
+[22:27:09] |                                                                |
+[22:27:09] | Contributors :-                                                |
+[22:27:09] | 	GameOvr : Scripting + Mapping                           |
+[22:27:09] | 	GREAT_BATTLER : LGGW Forum                              |
+[22:27:09] | 	Scorpion : Discord server                               |
+[22:27:09] | 	Husam_Haider : Sponsership                              |
+[22:27:09] | 	                                                        |
+[22:27:09] | @All Rights Reserved                                           |
+[22:27:09] |________________________________________________________________|
+[22:27:09] Number of vehicle models: 0
+[22:27:09] --- Server Shutting Down.
+[22:27:09] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:27:09] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[22:27:09] plugin.mysql: Unloading plugin...
+[22:27:09] plugin.mysql: Plugin unloaded.
+[22:27:09] Timer Fix plugin v1.1.1 unloaded.
+[22:27:09] 
+
+[22:27:09]  ===============================
+
+[22:27:09]      sscanf plugin unloaded.    
+
+[22:27:09]  ===============================
+
+[22:27:09] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[22:27:09] plugin.bcrypt: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:32:11] filterscripts = ""  (string)
+[22:32:11] 
+[22:32:11] Server Plugins
+[22:32:11] --------------
+[22:32:11]  Loading plugin: crashdetect
+[22:32:11]   CrashDetect plugin 4.19.4
+[22:32:11]   Loaded.
+[22:32:11]  Loading plugin: streamer
+[22:32:11] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[22:32:11]   Loaded.
+[22:32:11]  Loading plugin: mysql
+[22:32:11]  >> plugin.mysql: R41-4 successfully loaded.
+[22:32:11]   Loaded.
+[22:32:11]  Loading plugin: timerfix
+[22:32:11]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[22:32:11]   Loaded.
+[22:32:11]  Loading plugin: sscanf
+[22:32:11] 
+
+[22:32:11]  ===============================
+
+[22:32:11]       sscanf plugin loaded.     
+
+[22:32:11]          Version:  2.8.3        
+
+[22:32:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:32:11]  ===============================
+
+[22:32:11]   Loaded.
+[22:32:11]  Loading plugin: pawncmd
+[22:32:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:32:11]   Loaded.
+[22:32:11]  Loading plugin: SKY
+[22:32:11]   Loaded.
+[22:32:11]  Loading plugin: bcrypt-samp
+[22:32:11]   plugin.bcrypt v2.2.2 was loaded.
+[22:32:11]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[22:32:11]   Loaded.
+[22:32:11]  Loading plugin: nativechecker
+[22:32:11]   Loaded.
+[22:32:11]  Loaded 9 plugins.
+
+[22:32:12] 
+[22:32:12] Filterscripts
+[22:32:12] ---------------
+[22:32:12]   Loaded 0 filterscripts.
+
+[22:32:12]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:32:12]  
+[22:32:12]  
+[22:32:12]  
+[22:32:12]  ======================================= 
+[22:32:12]  |                                     | 
+[22:32:12]  |        YSI version 4.00.0001        | 
+[22:32:12]  |        By Alex "Y_Less" Cole        | 
+[22:32:12]  |                                     | 
+[22:32:12]  ======================================= 
+[22:32:12]  
+[22:32:12] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:32:12] [ SERVER ] MySQL - > I couldn't connect to the MySQL server, closing...
+[22:32:12] _________________________________________________________________
+[22:32:12] |								|
+[22:32:12] |								|
+[22:32:12] |		//      ////////  ////////  //       //		|
+[22:32:12] |		//	//	  //	    //	    //		|
+[22:32:12] |		//	//  ////  //  ////  //	   //		|
+[22:32:12] |		//	//    //  //    //  // // // 		|
+[22:32:12] |		///////	////////  ////////  /// ///		|
+[22:32:12] |								|
+[22:32:12] | 								|
+[22:32:12] |                                                                |
+[22:32:12] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[22:32:12] | Version - v 1.03                              	|
+[22:32:12] | Forum - https://www.lg-gw.ga                   		|
+[22:32:13] |                                                                |
+[22:32:13] | >> Script By GameOvr <<                                        |
+[22:32:13] |                                                                |
+[22:32:13] | Contributors :-                                                |
+[22:32:13] | 	GameOvr : Scripting + Mapping                           |
+[22:32:13] | 	GREAT_BATTLER : LGGW Forum                              |
+[22:32:13] | 	Scorpion : Discord server                               |
+[22:32:13] | 	Husam_Haider : Sponsership                              |
+[22:32:13] | 	                                                        |
+[22:32:13] | @All Rights Reserved                                           |
+[22:32:13] |________________________________________________________________|
+[22:32:13] Number of vehicle models: 0
+[22:32:13] --- Server Shutting Down.
+[22:32:13] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:32:13] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[22:32:13] plugin.mysql: Unloading plugin...
+[22:32:13] plugin.mysql: Plugin unloaded.
+[22:32:13] Timer Fix plugin v1.1.1 unloaded.
+[22:32:13] 
+
+[22:32:13]  ===============================
+
+[22:32:13]      sscanf plugin unloaded.    
+
+[22:32:13]  ===============================
+
+[22:32:13] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[22:32:13] plugin.bcrypt: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:39:23] filterscripts = ""  (string)
+[22:39:23] 
+[22:39:23] Server Plugins
+[22:39:23] --------------
+[22:39:23]  Loading plugin: crashdetect
+[22:39:23]   CrashDetect plugin 4.19.4
+[22:39:23]   Loaded.
+[22:39:23]  Loading plugin: streamer
+[22:39:23] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[22:39:23]   Loaded.
+[22:39:23]  Loading plugin: mysql
+[22:39:23]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:23]   Loaded.
+[22:39:23]  Loading plugin: timerfix
+[22:39:23]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[22:39:23]   Loaded.
+[22:39:23]  Loading plugin: sscanf
+[22:39:23] 
+
+[22:39:23]  ===============================
+
+[22:39:23]       sscanf plugin loaded.     
+
+[22:39:23]          Version:  2.8.3        
+
+[22:39:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:39:23]  ===============================
+
+[22:39:23]   Loaded.
+[22:39:23]  Loading plugin: pawncmd
+[22:39:23] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:39:23]   Loaded.
+[22:39:23]  Loading plugin: SKY
+[22:39:23]   Loaded.
+[22:39:23]  Loading plugin: bcrypt-samp
+[22:39:23]   plugin.bcrypt v2.2.2 was loaded.
+[22:39:23]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[22:39:23]   Loaded.
+[22:39:23]  Loading plugin: nativechecker
+[22:39:23]   Loaded.
+[22:39:23]  Loaded 9 plugins.
+
+[22:39:23] 
+[22:39:23] Filterscripts
+[22:39:23] ---------------
+[22:39:23]   Loaded 0 filterscripts.
+
+[22:39:23]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:39:23]  
+[22:39:23]  
+[22:39:23]  
+[22:39:23]  ======================================= 
+[22:39:23]  |                                     | 
+[22:39:23]  |        YSI version 4.00.0001        | 
+[22:39:23]  |        By Alex "Y_Less" Cole        | 
+[22:39:23]  |                                     | 
+[22:39:23]  ======================================= 
+[22:39:23]  
+[22:39:23] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:39:24] [ SERVER ] MySQL - > I couldn't connect to the MySQL server, closing...
+[22:39:24] _________________________________________________________________
+[22:39:24] |								|
+[22:39:24] |								|
+[22:39:24] |		//      ////////  ////////  //       //		|
+[22:39:24] |		//	//	  //	    //	    //		|
+[22:39:24] |		//	//  ////  //  ////  //	   //		|
+[22:39:24] |		//	//    //  //    //  // // // 		|
+[22:39:24] |		///////	////////  ////////  /// ///		|
+[22:39:24] |								|
+[22:39:24] | 								|
+[22:39:24] |                                                                |
+[22:39:24] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[22:39:24] | Version - v 1.03                              	|
+[22:39:24] | Forum - https://www.lg-gw.ga                   		|
+[22:39:24] |                                                                |
+[22:39:24] | >> Script By GameOvr <<                                        |
+[22:39:24] |                                                                |
+[22:39:24] | Contributors :-                                                |
+[22:39:24] | 	GameOvr : Scripting + Mapping                           |
+[22:39:24] | 	GREAT_BATTLER : LGGW Forum                              |
+[22:39:24] | 	Scorpion : Discord server                               |
+[22:39:24] | 	Husam_Haider : Sponsership                              |
+[22:39:24] | 	                                                        |
+[22:39:24] | @All Rights Reserved                                           |
+[22:39:24] |________________________________________________________________|
+[22:39:24] Number of vehicle models: 0
+[22:39:24] --- Server Shutting Down.
+[22:39:24] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:39:24] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[22:39:24] plugin.mysql: Unloading plugin...
+[22:39:24] plugin.mysql: Plugin unloaded.
+[22:39:24] Timer Fix plugin v1.1.1 unloaded.
+[22:39:24] 
+
+[22:39:24]  ===============================
+
+[22:39:24]      sscanf plugin unloaded.    
+
+[22:39:24]  ===============================
+
+[22:39:24] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[22:39:24] plugin.bcrypt: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:46:01] filterscripts = ""  (string)
+[22:46:01] 
+[22:46:01] Server Plugins
+[22:46:01] --------------
+[22:46:01]  Loading plugin: crashdetect
+[22:46:01]   CrashDetect plugin 4.19.4
+[22:46:01]   Loaded.
+[22:46:01]  Loading plugin: streamer
+[22:46:01] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[22:46:01]   Loaded.
+[22:46:01]  Loading plugin: mysql
+[22:46:01]  >> plugin.mysql: R41-4 successfully loaded.
+[22:46:01]   Loaded.
+[22:46:01]  Loading plugin: timerfix
+[22:46:01]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[22:46:01]   Loaded.
+[22:46:01]  Loading plugin: sscanf
+[22:46:01] 
+
+[22:46:01]  ===============================
+
+[22:46:01]       sscanf plugin loaded.     
+
+[22:46:01]          Version:  2.8.3        
+
+[22:46:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:46:01]  ===============================
+
+[22:46:01]   Loaded.
+[22:46:01]  Loading plugin: pawncmd
+[22:46:01] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:46:01]   Loaded.
+[22:46:01]  Loading plugin: SKY
+[22:46:01]   Loaded.
+[22:46:01]  Loading plugin: bcrypt-samp
+[22:46:01]   plugin.bcrypt v2.2.2 was loaded.
+[22:46:01]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[22:46:01]   Loaded.
+[22:46:01]  Loading plugin: nativechecker
+[22:46:01]   Loaded.
+[22:46:01]  Loaded 9 plugins.
+
+[22:46:01] 
+[22:46:01] Filterscripts
+[22:46:01] ---------------
+[22:46:01]   Loaded 0 filterscripts.
+
+[22:46:01]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[22:46:01]  
+[22:46:01]  
+[22:46:01]  
+[22:46:01]  ======================================= 
+[22:46:01]  |                                     | 
+[22:46:01]  |        YSI version 4.00.0001        | 
+[22:46:01]  |        By Alex "Y_Less" Cole        | 
+[22:46:01]  |                                     | 
+[22:46:01]  ======================================= 
+[22:46:01]  
+[22:46:01] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[22:46:02] [ SERVER ] I connected to MySQL server successfully!
+[22:46:02] 438
+[22:46:02] ---0
+[22:46:02] came here 1
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 4
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 4
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 4
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 4
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 4
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 4
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 4
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] came here 2
+[22:46:02] came here 3
+[22:46:02] came here 5
+[22:46:02] Zone_owned_team_ID = 4
+[22:46:02] Zone_owned_team_ID = 6
+[22:46:02] Zone_owned_team_ID = 1
+[22:46:02] Zone_owned_team_ID = 6
+[22:46:02] Zone_owned_team_ID = 1
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 4
+[22:46:02] Zone_owned_team_ID = 1
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 1
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 4
+[22:46:02] Zone_owned_team_ID = 1
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 4
+[22:46:02] Zone_owned_team_ID = 1
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 4
+[22:46:02] Zone_owned_team_ID = 6
+[22:46:02] Zone_owned_team_ID = 6
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 6
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 0
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 6
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 6
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 0
+[22:46:02] Zone_owned_team_ID = 4
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 3
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 6
+[22:46:02] Zone_owned_team_ID = 4
+[22:46:02] Zone_owned_team_ID = 4
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 2
+[22:46:02] Zone_owned_team_ID = 0
+[22:46:02] Zone_owned_team_ID = 0
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] Zone_owned_team_ID = 5
+[22:46:02] _________________________________________________________________
+[22:46:02] |								|
+[22:46:02] |								|
+[22:46:02] |		//      ////////  ////////  //       //		|
+[22:46:02] |		//	//	  //	    //	    //		|
+[22:46:02] |		//	//  ////  //  ////  //	   //		|
+[22:46:02] |		//	//    //  //    //  // // // 		|
+[22:46:02] |		///////	////////  ////////  /// ///		|
+[22:46:02] |								|
+[22:46:02] | 								|
+[22:46:02] |                                                                |
+[22:46:02] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[22:46:02] | Version - v 1.03                              	|
+[22:46:02] | Forum - https://www.lg-gw.ga                   		|
+[22:46:02] |                                                                |
+[22:46:02] | >> Script By GameOvr <<                                        |
+[22:46:02] |                                                                |
+[22:46:02] | Contributors :-                                                |
+[22:46:02] | 	GameOvr : Scripting + Mapping                           |
+[22:46:02] | 	GREAT_BATTLER : LGGW Forum                              |
+[22:46:02] | 	Scorpion : Discord server                               |
+[22:46:02] | 	Husam_Haider : Sponsership                              |
+[22:46:02] | 	                                                        |
+[22:46:02] | @All Rights Reserved                                           |
+[22:46:02] |________________________________________________________________|
+[22:46:02] Number of vehicle models: 77
+[22:46:02] plugin.bcrypt: Version check failed.
+[23:04:15] [connection] 127.0.0.1:50521 requests connection cookie.
+[23:04:16] [connection] incoming connection: 127.0.0.1:50521 id: 0
+[23:04:16] [join] careless has joined the server (0:127.0.0.1)
+[23:04:16] id - 0 | came here
+[23:04:19] id - 0 | came here2
+[23:04:33] id - 0 | came here2
+[23:04:37] id - 0 | came here2
+[23:04:38] id - 0 | came here2
+[23:04:38] id - 0 | came here2
+[23:04:39] id - 0 | came here2
+[23:04:39] id - 0 | came here2
+[23:04:41] ( command ) /rules executed by "careless"
+[23:08:13] ( command ) /dontsize executed by "careless"
+[23:09:11] RCON (In-Game): Player #0 (careless) has logged in.
+[23:09:58] ( command ) /setlevel executed by "careless"
+[23:10:06] sscanf warning: Format specifier does not match parameter count.
+[23:10:06] ( command ) /veh executed by "careless"
+[23:10:18] ( command ) /lel executed by "careless"
+[23:10:35] ( command ) /lel executed by "careless"
+[23:11:27] ( command ) /setkills executed by "careless"
+[23:11:36] ( command ) /agivecash executed by "careless"
+[23:12:08] ( command ) /v executed by "careless"
+[23:12:44] ( command ) /lel2 executed by "careless"
+[23:12:47] ( command ) /lell executed by "careless"
+[23:12:56] ( command ) /v executed by "careless"
+[23:14:44] ( chat ) careless[0]: T
+[23:17:42] ( command ) /repair executed by "careless"
+[23:18:25] ( command ) /gang executed by "careless"
+[23:18:30] ( command ) /gang executed by "careless"
+[23:18:46] ( command ) /gangs executed by "careless"
+[23:18:54] ( command ) /gang executed by "careless"
+[23:19:03] ( command ) /gang executed by "careless"
+[23:19:55] ( command ) /gang executed by "careless"
+[23:20:01] ( command ) /gang executed by "careless"
+[23:20:09] ( command ) /gang executed by "careless"
+[23:20:14] ( command ) /gang executed by "careless"
+[23:20:21] ( command ) /gang executed by "careless"
+[23:20:29] ( command ) /gang executed by "careless"
+[23:20:35] ( command ) /gang executed by "careless"
+[23:20:42] ( command ) /gang executed by "careless"
+[23:20:59] ( command ) /lell executed by "careless"
+[23:21:10] ( command ) /v executed by "careless"
+[23:22:08] ( command ) /gang executed by "careless"
+[23:22:26] ( command ) /gang executed by "careless"
+[23:22:33] ( command ) /gang executed by "careless"
+[23:22:55] ( command ) /gang executed by "careless"
+[23:22:58] ( command ) /gang executed by "careless"
+[23:23:04] ( command ) /gang executed by "careless"
+[23:23:22] ( command ) /gang executed by "careless"
+[23:23:30] ( command ) /gang executed by "careless"
+[23:23:36] ( command ) /gangveh executed by "careless"
+[23:23:56] ( command ) /gang executed by "careless"
+[23:27:27] ( command ) /getip executed by "careless"
+[23:27:39] ( command ) /getips executed by "careless"
+[23:27:56] ( command ) /v executed by "careless"
+[23:28:11] ( command ) /toys executed by "careless"
+[23:28:15] ( command ) /cmds executed by "careless"
+[23:28:41] ( command ) /top executed by "careless"
+[23:28:51] ( command ) /top executed by "careless"
+[23:28:58] ( command ) /tio==op executed by "careless"
+[23:29:00] ( command ) /top executed by "careless"
+[23:29:32] ( command ) /dm6 executed by "careless"
+[23:30:04] ( command ) /exit executed by "careless"
+[23:30:12] ( command ) /dm7 executed by "careless"
+[23:30:45] ( command ) /exit executed by "careless"
+[23:30:49] ( command ) /dm6 executed by "careless"
+[23:30:54] ( command ) /exit executed by "careless"
+[23:30:56] ( command ) /dm7 executed by "careless"
+[23:31:00] ( command ) /exit executed by "careless"
+[23:31:03] ( command ) /dm2 executed by "careless"
+[23:31:06] ( command ) /exit executed by "careless"
+[23:31:10] ( command ) /dm4 executed by "careless"
+[23:31:19] ( command ) /exit executed by "careless"
+[23:31:29] [part] careless has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:05:05] filterscripts = ""  (string)
+[08:05:05] 
+[08:05:05] Server Plugins
+[08:05:05] --------------
+[08:05:05]  Loading plugin: crashdetect
+[08:05:05]   CrashDetect plugin 4.19.4
+[08:05:05]   Loaded.
+[08:05:05]  Loading plugin: streamer
+[08:05:05] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[08:05:05]   Loaded.
+[08:05:05]  Loading plugin: mysql
+[08:05:05]  >> plugin.mysql: R41-4 successfully loaded.
+[08:05:05]   Loaded.
+[08:05:05]  Loading plugin: timerfix
+[08:05:06]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[08:05:06]   Loaded.
+[08:05:06]  Loading plugin: sscanf
+[08:05:06] 
+
+[08:05:06]  ===============================
+
+[08:05:06]       sscanf plugin loaded.     
+
+[08:05:06]          Version:  2.8.3        
+
+[08:05:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:05:06]  ===============================
+
+[08:05:06]   Loaded.
+[08:05:06]  Loading plugin: pawncmd
+[08:05:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:05:06]   Loaded.
+[08:05:06]  Loading plugin: SKY
+[08:05:06]   Loaded.
+[08:05:06]  Loading plugin: bcrypt-samp
+[08:05:06]   plugin.bcrypt v2.2.2 was loaded.
+[08:05:06]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[08:05:06]   Loaded.
+[08:05:06]  Loading plugin: nativechecker
+[08:05:06]   Loaded.
+[08:05:06]  Loaded 9 plugins.
+
+[08:05:06] 
+[08:05:06] Filterscripts
+[08:05:06] ---------------
+[08:05:06]   Loaded 0 filterscripts.
+
+[08:05:06]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[08:05:06]  
+[08:05:06]  
+[08:05:06]  
+[08:05:06]  ======================================= 
+[08:05:06]  |                                     | 
+[08:05:06]  |        YSI version 4.00.0001        | 
+[08:05:06]  |        By Alex "Y_Less" Cole        | 
+[08:05:06]  |                                     | 
+[08:05:06]  ======================================= 
+[08:05:06]  
+[08:05:07] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[08:05:07] [ SERVER ] I connected to MySQL server successfully!
+[08:05:07] 438
+[08:05:07] ---30
+[08:05:07] Zone_owned_team_ID = 4
+[08:05:07] Zone_owned_team_ID = 6
+[08:05:07] Zone_owned_team_ID = 1
+[08:05:07] Zone_owned_team_ID = 6
+[08:05:07] Zone_owned_team_ID = 1
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 4
+[08:05:07] Zone_owned_team_ID = 1
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 1
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 4
+[08:05:07] Zone_owned_team_ID = 1
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 4
+[08:05:07] Zone_owned_team_ID = 1
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 4
+[08:05:07] Zone_owned_team_ID = 6
+[08:05:07] Zone_owned_team_ID = 6
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 6
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 0
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 6
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 6
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 0
+[08:05:07] Zone_owned_team_ID = 4
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 3
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 6
+[08:05:07] Zone_owned_team_ID = 4
+[08:05:07] Zone_owned_team_ID = 4
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 2
+[08:05:07] Zone_owned_team_ID = 0
+[08:05:07] Zone_owned_team_ID = 0
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] Zone_owned_team_ID = 5
+[08:05:07] _________________________________________________________________
+[08:05:07] |								|
+[08:05:07] |								|
+[08:05:07] |		//      ////////  ////////  //       //		|
+[08:05:07] |		//	//	  //	    //	    //		|
+[08:05:07] |		//	//  ////  //  ////  //	   //		|
+[08:05:07] |		//	//    //  //    //  // // // 		|
+[08:05:07] |		///////	////////  ////////  /// ///		|
+[08:05:07] |								|
+[08:05:07] | 								|
+[08:05:07] |                                                                |
+[08:05:07] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[08:05:07] | Version - v 1.03                              	|
+[08:05:07] | Forum - https://www.lg-gw.ga                   		|
+[08:05:07] |                                                                |
+[08:05:07] | >> Script By GameOvr <<                                        |
+[08:05:07] |                                                                |
+[08:05:07] | Contributors :-                                                |
+[08:05:07] | 	GameOvr : Scripting + Mapping                           |
+[08:05:07] | 	GREAT_BATTLER : LGGW Forum                              |
+[08:05:07] | 	Scorpion : Discord server                               |
+[08:05:07] | 	Husam_Haider : Sponsership                              |
+[08:05:07] | 	                                                        |
+[08:05:07] | @All Rights Reserved                                           |
+[08:05:07] |________________________________________________________________|
+[08:05:07] Number of vehicle models: 77
+[08:05:07] plugin.bcrypt: Version check failed.
+[08:05:33] [connection] 127.0.0.1:57949 requests connection cookie.
+[08:05:34] [connection] incoming connection: 127.0.0.1:57949 id: 0
+[08:05:34] [join] careless has joined the server (0:127.0.0.1)
+[08:05:34] id - 0 | came here
+[08:05:51] id - 0 | came here2
+[08:05:59] ( command ) /rules executed by "careless"
+[08:06:39] ( command ) /keys executed by "careless"
+[08:07:01] ( command ) /stats executed by "careless"
+[08:07:10] ( command ) /stats executed by "careless"
+[08:07:53] ( command ) /f executed by "careless"
+[08:07:56] ( command ) /f executed by "careless"
+[08:07:59] ( command ) /v executed by "careless"
+[08:08:15] ( command ) /gv executed by "careless"
+[08:08:24] ( command ) /gang executed by "careless"
+[08:08:38] ( command ) /gang executed by "careless"
+[08:08:53] ( command ) /gang executed by "careless"
+[08:09:00] [debug] Run time error 4: "Array index out of bounds"
+[08:09:00] [debug]  Attempted to read/write array element at index 65535 in array of size 500
+[08:09:00] [debug] AMX backtrace:
+[08:09:00] [debug] #0 00122074 in public dialog_DIALOG_GANG_VEH_SELL (0, 1, -1, 13564996) in LGGW2.amx
+[08:09:00] [debug] #1 native CallLocalFunction () in samp-server.exe
+[08:09:00] [debug] #2 00068df0 in public FIXES_OnDialogResponse (0, 32700, 1, -1, 13564992) in LGGW2.amx
+[08:09:00] [debug] #3 0000aa48 in public OnDialogResponse (0, 32700, 1, -1, 13564992) in LGGW2.amx
+[08:09:05] ( command ) /gang executed by "careless"
+[08:09:29] ( command ) /gv executed by "careless"
+[08:11:39] ( command ) /toyshop executed by "careless"
+[08:12:53] ( command ) /toyedit executed by "careless"
+[08:13:02] ( command ) /toyedit executed by "careless"
+[08:13:09] ( command ) /toyedit executed by "careless"
+[08:13:44] ( command ) /toyedit executed by "careless"
+[08:13:50] ( command ) /toyedit executed by "careless"
+[08:14:20] ( command ) /toybone' executed by "careless"
+[08:14:28] ( command ) /toybone executed by "careless"
+[08:14:37] ( command ) /bonelist executed by "careless"
+[08:14:57] ( command ) /bonelist executed by "careless"
+[08:15:21] ( command ) /toybone executed by "careless"
+[08:15:31] ( command ) /bonelist executed by "careless"
+[08:15:48] ( command ) /toyedit executed by "careless"
+[08:15:55] ( command ) /toyedit executed by "careless"
+[08:16:29] ( command ) /toy executed by "careless"
+[08:16:35] ( command ) /toyedit executed by "careless"
+[08:16:53] ( command ) /toyedit executed by "careless"
+[08:16:59] ( command ) /toy' executed by "careless"
+[08:17:01] ( chat ) careless[0]: dds
+[08:17:02] ( chat ) careless[0]: dwd
+[08:17:04] ( chat ) careless[0]: dwd
+[08:17:21] ( command ) /toyshop executed by "careless"
+[08:18:06] ( command ) /toyedit executed by "careless"
+[08:18:15] ( command ) /bonelist executed by "careless"
+[08:18:37] ( command ) /toybone executed by "careless"
+[08:18:43] ( command ) /toybone executed by "careless"
+[08:18:52] ( command ) /toyedit executed by "careless"
+[08:19:24] ( command ) /toyshop executed by "careless"
+[08:21:14] [part] careless has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:22:45] filterscripts = ""  (string)
+[17:22:45] 
+[17:22:45] Server Plugins
+[17:22:45] --------------
+[17:22:45]  Loading plugin: crashdetect
+[17:22:45]   CrashDetect plugin 4.19.4
+[17:22:45]   Loaded.
+[17:22:45]  Loading plugin: streamer
+[17:22:45] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[17:22:45]   Loaded.
+[17:22:45]  Loading plugin: mysql
+[17:22:45]  >> plugin.mysql: R41-4 successfully loaded.
+[17:22:45]   Loaded.
+[17:22:45]  Loading plugin: timerfix
+[17:22:45]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[17:22:45]   Loaded.
+[17:22:45]  Loading plugin: sscanf
+[17:22:45] 
+
+[17:22:45]  ===============================
+
+[17:22:45]       sscanf plugin loaded.     
+
+[17:22:45]          Version:  2.8.3        
+
+[17:22:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:22:45]  ===============================
+
+[17:22:45]   Loaded.
+[17:22:45]  Loading plugin: pawncmd
+[17:22:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:22:45]   Loaded.
+[17:22:45]  Loading plugin: SKY
+[17:22:45]   Loaded.
+[17:22:45]  Loading plugin: bcrypt-samp
+[17:22:45]   plugin.bcrypt v2.2.2 was loaded.
+[17:22:45]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[17:22:45]   Loaded.
+[17:22:45]  Loading plugin: nativechecker
+[17:22:45]   Loaded.
+[17:22:45]  Loaded 9 plugins.
+
+[17:22:45] 
+[17:22:45] Filterscripts
+[17:22:45] ---------------
+[17:22:45]   Loaded 0 filterscripts.
+
+[17:22:46]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[17:22:46]  
+[17:22:46]  
+[17:22:46]  
+[17:22:46]  ======================================= 
+[17:22:46]  |                                     | 
+[17:22:46]  |        YSI version 4.00.0001        | 
+[17:22:46]  |        By Alex "Y_Less" Cole        | 
+[17:22:46]  |                                     | 
+[17:22:46]  ======================================= 
+[17:22:46]  
+[17:22:46] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[17:22:46] [ SERVER ] I connected to MySQL server successfully!
+[17:22:46] 438
+[17:22:46] ---30
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 5
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 3
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 3
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 3
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 5
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 5
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 5
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 5
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 5
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 5
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 3
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 2
+[17:22:46] Zone_owned_team_ID = 6
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 4
+[17:22:46] Zone_owned_team_ID = 5
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 1
+[17:22:46] Zone_owned_team_ID = 3
+[17:22:46] Zone_owned_team_ID = 0
+[17:22:46] Zone_owned_team_ID = 3
+[17:22:46] _________________________________________________________________
+[17:22:46] |								|
+[17:22:46] |								|
+[17:22:46] |		//      ////////  ////////  //       //		|
+[17:22:46] |		//	//	  //	    //	    //		|
+[17:22:46] |		//	//  ////  //  ////  //	   //		|
+[17:22:46] |		//	//    //  //    //  // // // 		|
+[17:22:46] |		///////	////////  ////////  /// ///		|
+[17:22:46] |								|
+[17:22:46] | 								|
+[17:22:46] |                                                                |
+[17:22:46] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[17:22:46] | Version - v 1.03                              	|
+[17:22:46] | Forum - https://www.lg-gw.ga                   		|
+[17:22:46] |                                                                |
+[17:22:46] | >> Script By GameOvr <<                                        |
+[17:22:46] |                                                                |
+[17:22:46] | Contributors :-                                                |
+[17:22:46] | 	GameOvr : Scripting + Mapping                           |
+[17:22:46] | 	GREAT_BATTLER : LGGW Forum                              |
+[17:22:46] | 	Scorpion : Discord server                               |
+[17:22:46] | 	Husam_Haider : Sponsership                              |
+[17:22:46] | 	                                                        |
+[17:22:46] | @All Rights Reserved                                           |
+[17:22:46] |________________________________________________________________|
+[17:22:46] Number of vehicle models: 77
+[17:22:46] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:23:58] filterscripts = ""  (string)
+[17:23:58] 
+[17:23:58] Server Plugins
+[17:23:58] --------------
+[17:23:58]  Loading plugin: crashdetect
+[17:23:58]   CrashDetect plugin 4.19.4
+[17:23:58]   Loaded.
+[17:23:58]  Loading plugin: streamer
+[17:23:58] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[17:23:58]   Loaded.
+[17:23:58]  Loading plugin: mysql
+[17:23:58]  >> plugin.mysql: R41-4 successfully loaded.
+[17:23:58]   Loaded.
+[17:23:58]  Loading plugin: timerfix
+[17:23:58]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[17:23:58]   Loaded.
+[17:23:58]  Loading plugin: sscanf
+[17:23:58] 
+
+[17:23:58]  ===============================
+
+[17:23:58]       sscanf plugin loaded.     
+
+[17:23:58]          Version:  2.8.3        
+
+[17:23:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:23:58]  ===============================
+
+[17:23:58]   Loaded.
+[17:23:58]  Loading plugin: pawncmd
+[17:23:58] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:23:58]   Loaded.
+[17:23:58]  Loading plugin: SKY
+[17:23:58]   Loaded.
+[17:23:58]  Loading plugin: bcrypt-samp
+[17:23:58]   plugin.bcrypt v2.2.2 was loaded.
+[17:23:58]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[17:23:58]   Loaded.
+[17:23:58]  Loading plugin: nativechecker
+[17:23:58]   Loaded.
+[17:23:58]  Loaded 9 plugins.
+
+[17:23:58] 
+[17:23:58] Filterscripts
+[17:23:58] ---------------
+[17:23:58]   Loaded 0 filterscripts.
+
+[17:23:58]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[17:23:58]  
+[17:23:58]  
+[17:23:58]  
+[17:23:58]  ======================================= 
+[17:23:58]  |                                     | 
+[17:23:58]  |        YSI version 4.00.0001        | 
+[17:23:58]  |        By Alex "Y_Less" Cole        | 
+[17:23:58]  |                                     | 
+[17:23:58]  ======================================= 
+[17:23:58]  
+[17:23:58] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[17:23:58] [ SERVER ] I connected to MySQL server successfully!
+[17:23:58] 438
+[17:23:58] ---30
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 1
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 2
+[17:23:58] Zone_owned_team_ID = 2
+[17:23:58] Zone_owned_team_ID = 1
+[17:23:58] Zone_owned_team_ID = 1
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 2
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 1
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] Zone_owned_team_ID = 2
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 1
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 4
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 2
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 6
+[17:23:58] Zone_owned_team_ID = 3
+[17:23:58] Zone_owned_team_ID = 7
+[17:23:58] Zone_owned_team_ID = 2
+[17:23:58] Zone_owned_team_ID = 1
+[17:23:58] Zone_owned_team_ID = 5
+[17:23:58] _________________________________________________________________
+[17:23:58] |								|
+[17:23:58] |								|
+[17:23:58] |		//      ////////  ////////  //       //		|
+[17:23:58] |		//	//	  //	    //	    //		|
+[17:23:58] |		//	//  ////  //  ////  //	   //		|
+[17:23:58] |		//	//    //  //    //  // // // 		|
+[17:23:58] |		///////	////////  ////////  /// ///		|
+[17:23:58] |								|
+[17:23:58] | 								|
+[17:23:58] |                                                                |
+[17:23:58] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[17:23:58] | Version - v 1.03                              	|
+[17:23:58] | Forum - https://www.lg-gw.ga                   		|
+[17:23:58] |                                                                |
+[17:23:58] | >> Script By GameOvr <<                                        |
+[17:23:58] |                                                                |
+[17:23:58] | Contributors :-                                                |
+[17:23:58] | 	GameOvr : Scripting + Mapping                           |
+[17:23:58] | 	GREAT_BATTLER : LGGW Forum                              |
+[17:23:58] | 	Scorpion : Discord server                               |
+[17:23:58] | 	Husam_Haider : Sponsership                              |
+[17:23:58] | 	                                                        |
+[17:23:58] | @All Rights Reserved                                           |
+[17:23:58] |________________________________________________________________|
+[17:23:58] Number of vehicle models: 77
+[17:23:58] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:28:29] filterscripts = ""  (string)
+[17:28:29] 
+[17:28:29] Server Plugins
+[17:28:29] --------------
+[17:28:29]  Loading plugin: crashdetect
+[17:28:29]   CrashDetect plugin 4.19.4
+[17:28:29]   Loaded.
+[17:28:29]  Loading plugin: streamer
+[17:28:29] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[17:28:29]   Loaded.
+[17:28:29]  Loading plugin: mysql
+[17:28:29]  >> plugin.mysql: R41-4 successfully loaded.
+[17:28:29]   Loaded.
+[17:28:29]  Loading plugin: timerfix
+[17:28:29]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[17:28:29]   Loaded.
+[17:28:29]  Loading plugin: sscanf
+[17:28:29] 
+
+[17:28:29]  ===============================
+
+[17:28:29]       sscanf plugin loaded.     
+
+[17:28:29]          Version:  2.8.3        
+
+[17:28:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:28:29]  ===============================
+
+[17:28:29]   Loaded.
+[17:28:29]  Loading plugin: pawncmd
+[17:28:29] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:28:29]   Loaded.
+[17:28:29]  Loading plugin: SKY
+[17:28:29]   Loaded.
+[17:28:29]  Loading plugin: bcrypt-samp
+[17:28:29]   plugin.bcrypt v2.2.2 was loaded.
+[17:28:29]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[17:28:29]   Loaded.
+[17:28:29]  Loading plugin: nativechecker
+[17:28:29]   Loaded.
+[17:28:29]  Loaded 9 plugins.
+
+[17:28:29] 
+[17:28:29] Filterscripts
+[17:28:29] ---------------
+[17:28:29]   Loaded 0 filterscripts.
+
+[17:28:29]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[17:28:29]  
+[17:28:29]  
+[17:28:29]  
+[17:28:29]  ======================================= 
+[17:28:29]  |                                     | 
+[17:28:29]  |        YSI version 4.00.0001        | 
+[17:28:29]  |        By Alex "Y_Less" Cole        | 
+[17:28:29]  |                                     | 
+[17:28:29]  ======================================= 
+[17:28:29]  
+[17:28:29] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[17:28:29] [ SERVER ] I connected to MySQL server successfully!
+[17:28:29] 438
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 1
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 2
+[17:28:29] Zone_owned_team_ID = 2
+[17:28:29] Zone_owned_team_ID = 1
+[17:28:29] Zone_owned_team_ID = 1
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 2
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 1
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] Zone_owned_team_ID = 2
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 1
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 4
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 2
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 6
+[17:28:29] Zone_owned_team_ID = 3
+[17:28:29] Zone_owned_team_ID = 7
+[17:28:29] Zone_owned_team_ID = 2
+[17:28:29] Zone_owned_team_ID = 1
+[17:28:29] Zone_owned_team_ID = 5
+[17:28:29] _________________________________________________________________
+[17:28:29] |								|
+[17:28:29] |								|
+[17:28:29] |		//      ////////  ////////  //       //		|
+[17:28:29] |		//	//	  //	    //	    //		|
+[17:28:29] |		//	//  ////  //  ////  //	   //		|
+[17:28:29] |		//	//    //  //    //  // // // 		|
+[17:28:29] |		///////	////////  ////////  /// ///		|
+[17:28:29] |								|
+[17:28:29] | 								|
+[17:28:29] |                                                                |
+[17:28:29] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[17:28:29] | Version - v 1.03                              	|
+[17:28:29] | Forum - https://www.lg-gw.ga                   		|
+[17:28:29] |                                                                |
+[17:28:29] | >> Script By GameOvr <<                                        |
+[17:28:29] |                                                                |
+[17:28:29] | Contributors :-                                                |
+[17:28:29] | 	GameOvr : Scripting + Mapping                           |
+[17:28:29] | 	GREAT_BATTLER : LGGW Forum                              |
+[17:28:29] | 	Scorpion : Discord server                               |
+[17:28:29] | 	Husam_Haider : Sponsership                              |
+[17:28:29] | 	                                                        |
+[17:28:29] | @All Rights Reserved                                           |
+[17:28:29] |________________________________________________________________|
+[17:28:29] Number of vehicle models: 77
+[17:28:29] plugin.bcrypt: Version check failed.
+[17:28:51] [connection] 127.0.0.1:55921 requests connection cookie.
+[17:28:52] [connection] incoming connection: 127.0.0.1:55921 id: 0
+[17:28:53] [join] careless has joined the server (0:127.0.0.1)
+[17:29:03] ( command ) /rules executed by "careless"
+[17:30:10] ( command ) /gang executed by "careless"
+[17:30:26] ( command ) /gang executed by "careless"
+[17:30:52] ( command ) /top executed by "careless"
+[17:30:59] ( command ) /top executed by "careless"
+[17:31:39] ( command ) /dm8 executed by "careless"
+[17:31:43] ( command ) /exit executed by "careless"
+[17:31:45] ( command ) /dm9 executed by "careless"
+[17:32:36] ( command ) /blockpm executed by "careless"
+[17:32:48] ( command ) /unblockpm executed by "careless"
+[17:32:50] ( command ) /cmds executed by "careless"
+[17:33:02] ( command ) /blockpm executed by "careless"
+[17:33:13] ( command ) /help executed by "careless"
+[17:34:56] ( command ) /gang executed by "careless"
+[17:34:59] ( command ) /gang executed by "careless"
+[17:35:11] ( command ) /gang executed by "careless"
+[17:35:23] ( command ) /gang executed by "careless"
+[17:35:33] ( command ) /gang executed by "careless"
+[17:35:41] ( command ) /gang executed by "careless"
+[17:35:44] ( command ) /gv executed by "careless"
+[17:35:48] ( command ) /eixt executed by "careless"
+[17:35:52] ( command ) /exit executed by "careless"
+[17:35:56] ( chat ) careless[0]: `/gv
+[17:35:59] ( command ) /gv executed by "careless"
+[17:36:13] ( command ) /v executed by "careless"
+[17:38:24] ( command ) /v executed by "careless"
+[17:39:40] ( command ) /setweather executed by "careless"
+[17:39:52] [debug] Run time error 4: "Array index out of bounds"
+[17:39:52] [debug]  Attempted to read/write array element at index 65535 in array of size 500
+[17:39:52] [debug] AMX backtrace:
+[17:39:52] [debug] #0 001086fc in main (0, 13564564) in LGGW3.amx
+[17:39:52] ( command ) /gang executed by "careless"
+[17:39:56] ( command ) /gang executed by "careless"
+[17:40:01] ( command ) /gang executed by "careless"
+[17:40:20] ( command ) /spawn executed by "careless"
+[17:40:29] ( command ) /kill executed by "careless"
+[17:40:48] ( command ) /v executed by "careless"
+[17:40:54] [part] careless has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:48:16] filterscripts = ""  (string)
+[17:48:16] 
+[17:48:16] Server Plugins
+[17:48:16] --------------
+[17:48:16]  Loading plugin: crashdetect
+[17:48:16]   CrashDetect plugin 4.19.4
+[17:48:16]   Loaded.
+[17:48:16]  Loading plugin: streamer
+[17:48:16] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[17:48:16]   Loaded.
+[17:48:16]  Loading plugin: mysql
+[17:48:16]  >> plugin.mysql: R41-4 successfully loaded.
+[17:48:16]   Loaded.
+[17:48:16]  Loading plugin: timerfix
+[17:48:16]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[17:48:16]   Loaded.
+[17:48:16]  Loading plugin: sscanf
+[17:48:16] 
+
+[17:48:16]  ===============================
+
+[17:48:16]       sscanf plugin loaded.     
+
+[17:48:16]          Version:  2.8.3        
+
+[17:48:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:48:16]  ===============================
+
+[17:48:16]   Loaded.
+[17:48:16]  Loading plugin: pawncmd
+[17:48:16] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:48:16]   Loaded.
+[17:48:16]  Loading plugin: SKY
+[17:48:16]   Loaded.
+[17:48:16]  Loading plugin: bcrypt-samp
+[17:48:16]   plugin.bcrypt v2.2.2 was loaded.
+[17:48:16]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[17:48:16]   Loaded.
+[17:48:16]  Loading plugin: nativechecker
+[17:48:16]   Loaded.
+[17:48:16]  Loaded 9 plugins.
+
+[17:48:16] 
+[17:48:16] Filterscripts
+[17:48:16] ---------------
+[17:48:16]   Loaded 0 filterscripts.
+
+[17:48:16]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[17:48:16]  
+[17:48:16]  
+[17:48:16]  
+[17:48:16]  ======================================= 
+[17:48:16]  |                                     | 
+[17:48:16]  |        YSI version 4.00.0001        | 
+[17:48:16]  |        By Alex "Y_Less" Cole        | 
+[17:48:16]  |                                     | 
+[17:48:16]  ======================================= 
+[17:48:16]  
+[17:48:16] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[17:48:16] [ SERVER ] I connected to MySQL server successfully!
+[17:48:16] 438
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 1
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 2
+[17:48:16] Zone_owned_team_ID = 2
+[17:48:16] Zone_owned_team_ID = 1
+[17:48:16] Zone_owned_team_ID = 1
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 2
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 1
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] Zone_owned_team_ID = 2
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 1
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 4
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 2
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 6
+[17:48:16] Zone_owned_team_ID = 3
+[17:48:16] Zone_owned_team_ID = 7
+[17:48:16] Zone_owned_team_ID = 2
+[17:48:16] Zone_owned_team_ID = 1
+[17:48:16] Zone_owned_team_ID = 5
+[17:48:16] _________________________________________________________________
+[17:48:16] |								|
+[17:48:16] |								|
+[17:48:16] |		//      ////////  ////////  //       //		|
+[17:48:16] |		//	//	  //	    //	    //		|
+[17:48:16] |		//	//  ////  //  ////  //	   //		|
+[17:48:16] |		//	//    //  //    //  // // // 		|
+[17:48:16] |		///////	////////  ////////  /// ///		|
+[17:48:16] |								|
+[17:48:16] | 								|
+[17:48:16] |                                                                |
+[17:48:16] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[17:48:16] | Version - v 1.03                              	|
+[17:48:16] | Forum - https://www.lg-gw.ga                   		|
+[17:48:16] |                                                                |
+[17:48:16] | >> Script By GameOvr <<                                        |
+[17:48:16] |                                                                |
+[17:48:16] | Contributors :-                                                |
+[17:48:16] | 	GameOvr : Scripting + Mapping                           |
+[17:48:16] | 	GREAT_BATTLER : LGGW Forum                              |
+[17:48:16] | 	Scorpion : Discord server                               |
+[17:48:16] | 	Husam_Haider : Sponsership                              |
+[17:48:16] | 	                                                        |
+[17:48:16] | @All Rights Reserved                                           |
+[17:48:16] |________________________________________________________________|
+[17:48:16] Number of vehicle models: 77
+[17:48:16] plugin.bcrypt: Version check failed.
+[17:49:37] [connection] 127.0.0.1:55924 requests connection cookie.
+[17:49:38] [connection] incoming connection: 127.0.0.1:55924 id: 0
+[17:49:39] [join] careless has joined the server (0:127.0.0.1)
+[17:50:39] ( command ) /rules executed by "careless"
+[17:51:19] ( command ) /gang executed by "careless"
+[17:51:27] ( command ) /agivecash executed by "careless"
+[17:51:34] ( command ) /create executed by "careless"
+[17:51:37] ( command ) /gang executed by "careless"
+[17:51:46] ( command ) /gang executed by "careless"
+[17:51:50] ( command ) /gang executed by "careless"
+[17:52:11] ( command ) /setkills executed by "careless"
+[17:52:18] ( command ) /create executed by "careless"
+[17:52:24] ( command ) /gang executed by "careless"
+[17:53:38] ( command ) /ds executed by "careless"
+[17:53:47] ( command ) /v executed by "careless"
+[17:53:56] ( command ) /gang executed by "careless"
+[17:54:10] ( command ) /gang executed by "careless"
+[17:54:48] ( command ) /gang executed by "careless"
+[17:54:56] ( command ) /dm2 executed by "careless"
+[17:55:04] ( command ) /gang executed by "careless"
+[17:55:55] ( command ) /exit executed by "careless"
+[17:56:34] ( command ) /gang executed by "careless"
+[17:56:44] ( command ) /gang executed by "careless"
+[17:56:58] ( chat ) careless[0]: `wd
+[17:57:16] ( command ) /gang executed by "careless"
+[17:57:27] ( chat ) careless[0]: `sds\\
+[17:58:19] ( command ) /gang executed by "careless"
+[17:58:50] ( chat ) careless[0]: `DWD]\
+[17:59:07] ( command ) /gang executed by "careless"
+[17:59:20] ( chat ) careless[0]: dd
+[19:06:38] ( command ) /v executed by "careless"
+[19:07:52] ( command ) /gangs executed by "careless"
+[19:07:57] ( command ) /gang executed by "careless"
+[19:08:01] ( command ) /gang executed by "careless"
+[19:08:05] ( command ) /gang executed by "careless"
+[19:08:25] [part] careless has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:12:44] filterscripts = ""  (string)
+[19:12:44] 
+[19:12:44] Server Plugins
+[19:12:44] --------------
+[19:12:44]  Loading plugin: crashdetect
+[19:12:44]   CrashDetect plugin 4.19.4
+[19:12:44]   Loaded.
+[19:12:44]  Loading plugin: streamer
+[19:12:44] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[19:12:44]   Loaded.
+[19:12:44]  Loading plugin: mysql
+[19:12:44]  >> plugin.mysql: R41-4 successfully loaded.
+[19:12:44]   Loaded.
+[19:12:44]  Loading plugin: timerfix
+[19:12:44]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[19:12:44]   Loaded.
+[19:12:44]  Loading plugin: sscanf
+[19:12:44] 
+
+[19:12:44]  ===============================
+
+[19:12:44]       sscanf plugin loaded.     
+
+[19:12:44]          Version:  2.8.3        
+
+[19:12:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:12:44]  ===============================
+
+[19:12:44]   Loaded.
+[19:12:44]  Loading plugin: pawncmd
+[19:12:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:12:44]   Loaded.
+[19:12:44]  Loading plugin: SKY
+[19:12:44]   Loaded.
+[19:12:44]  Loading plugin: bcrypt-samp
+[19:12:44]   plugin.bcrypt v2.2.2 was loaded.
+[19:12:44]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[19:12:44]   Loaded.
+[19:12:44]  Loading plugin: nativechecker
+[19:12:44]   Loaded.
+[19:12:44]  Loaded 9 plugins.
+
+[19:12:44] 
+[19:12:44] Filterscripts
+[19:12:44] ---------------
+[19:12:44]   Loaded 0 filterscripts.
+
+[19:12:45]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[19:12:45]  
+[19:12:45]  
+[19:12:45]  
+[19:12:45]  ======================================= 
+[19:12:45]  |                                     | 
+[19:12:45]  |        YSI version 4.00.0001        | 
+[19:12:45]  |        By Alex "Y_Less" Cole        | 
+[19:12:45]  |                                     | 
+[19:12:45]  ======================================= 
+[19:12:45]  
+[19:12:45] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[19:12:45] [ SERVER ] I connected to MySQL server successfully!
+[19:12:45] 438
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 1
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 2
+[19:12:45] Zone_owned_team_ID = 2
+[19:12:45] Zone_owned_team_ID = 1
+[19:12:45] Zone_owned_team_ID = 1
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 2
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 1
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] Zone_owned_team_ID = 2
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 1
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 4
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 2
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 6
+[19:12:45] Zone_owned_team_ID = 3
+[19:12:45] Zone_owned_team_ID = 7
+[19:12:45] Zone_owned_team_ID = 2
+[19:12:45] Zone_owned_team_ID = 1
+[19:12:45] Zone_owned_team_ID = 5
+[19:12:45] _________________________________________________________________
+[19:12:45] |								|
+[19:12:45] |								|
+[19:12:45] |		//      ////////  ////////  //       //		|
+[19:12:45] |		//	//	  //	    //	    //		|
+[19:12:45] |		//	//  ////  //  ////  //	   //		|
+[19:12:45] |		//	//    //  //    //  // // // 		|
+[19:12:45] |		///////	////////  ////////  /// ///		|
+[19:12:45] |								|
+[19:12:45] | 								|
+[19:12:45] |                                                                |
+[19:12:45] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[19:12:45] | Version - v 1.03                              	|
+[19:12:45] | Forum - https://www.lg-gw.ga                   		|
+[19:12:45] |                                                                |
+[19:12:45] | >> Script By GameOvr <<                                        |
+[19:12:45] |                                                                |
+[19:12:45] | Contributors :-                                                |
+[19:12:45] | 	GameOvr : Scripting + Mapping                           |
+[19:12:45] | 	GREAT_BATTLER : LGGW Forum                              |
+[19:12:45] | 	Scorpion : Discord server                               |
+[19:12:45] | 	Husam_Haider : Sponsership                              |
+[19:12:45] | 	                                                        |
+[19:12:45] | @All Rights Reserved                                           |
+[19:12:45] |________________________________________________________________|
+[19:12:45] Number of vehicle models: 77
+[19:12:45] plugin.bcrypt: Version check failed.
+[19:13:24] [connection] 127.0.0.1:65385 requests connection cookie.
+[19:13:25] [connection] incoming connection: 127.0.0.1:65385 id: 0
+[19:13:25] [join] careless has joined the server (0:127.0.0.1)
+[19:13:42] ( command ) /rules executed by "careless"
+[19:18:35] ( command ) /gang executed by "careless"
+[19:18:59] ( chat ) careless[0]: wd
+[19:19:10] ( chat ) careless[0]: dwd
+[19:19:20] ( chat ) careless[0]: ````dddddddddddddddddddddddddddddddddddddddddddddddddd
+[19:19:37] ( command ) /acmds executed by "careless"
+[19:20:04] ( command ) /waen executed by "careless"
+[19:20:08] ( command ) /warn executed by "careless"
+[19:20:14] ( command ) /warn executed by "careless"
+[19:20:22] ( command ) /warn executed by "careless"
+[19:20:29] ( command ) /acmds executed by "careless"
+[19:20:38] ( command ) /oban executed by "careless"
+[19:20:42] ( command ) /tban executed by "careless"
+[19:20:48] ( command ) /ban executed by "careless"
+[19:20:58] ( command ) /acmds executed by "careless"
+[19:21:07] ( command ) /a executed by "careless"
+[19:21:11] ( command ) /a executed by "careless"
+[19:21:20] ( command ) /a1 executed by "careless"
+[19:21:24] ( command ) /a1 executed by "careless"
+[19:21:38] ( command ) /a executed by "careless"
+[19:22:01] ( command ) /a executed by "careless"
+[19:22:12] ( command ) /a executed by "careless"
+[19:22:23] ( command ) /acmds executed by "careless"
+[19:22:34] ( command ) /fexitmg executed by "careless"
+[19:22:40] ( command ) /acmds executed by "careless"
+[19:22:47] ( command ) /afuncs executed by "careless"
+[19:24:45] [debug] Run time error 4: "Array index out of bounds"
+[19:24:45] [debug]  Attempted to read/write array element at negative index -1
+[19:24:45] [debug] AMX backtrace:
+[19:24:45] [debug] #0 000c8f58 in public TurfMoney () in LGGW3.amx
+[19:24:45] error while processing timer: cannot execute public 'TurfMoney'
+[19:25:01] ( command ) /givepriveh executed by "careless"
+[19:25:11] ( command ) /givepriveh executed by "careless"
+[19:25:53] ( command ) /cmds executed by "careless"
+[19:26:15] ( command ) /v executed by "careless"
+[19:26:34] ( command ) /lms executed by "careless"
+[19:27:04] ( command ) /lms executed by "careless"
+[19:29:13] [part] careless has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:27:31] filterscripts = ""  (string)
+[11:27:31] 
+[11:27:31] Server Plugins
+[11:27:31] --------------
+[11:27:31]  Loading plugin: crashdetect
+[11:27:31]   CrashDetect plugin 4.19.4
+[11:27:31]   Loaded.
+[11:27:31]  Loading plugin: streamer
+[11:27:32] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[11:27:32]   Loaded.
+[11:27:32]  Loading plugin: mysql
+[11:27:32]  >> plugin.mysql: R41-4 successfully loaded.
+[11:27:32]   Loaded.
+[11:27:32]  Loading plugin: timerfix
+[11:27:32]   Timer Fix plugin v1.1.1 by KashCherry loaded.
+[11:27:32]   Loaded.
+[11:27:32]  Loading plugin: sscanf
+[11:27:32] 
+
+[11:27:32]  ===============================
+
+[11:27:32]       sscanf plugin loaded.     
+
+[11:27:32]          Version:  2.8.3        
+
+[11:27:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:27:32]  ===============================
+
+[11:27:32]   Loaded.
+[11:27:32]  Loading plugin: pawncmd
+[11:27:32] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:27:32]   Loaded.
+[11:27:32]  Loading plugin: SKY
+[11:27:32]   Loaded.
+[11:27:32]  Loading plugin: bcrypt-samp
+[11:27:33]   plugin.bcrypt v2.2.2 was loaded.
+[11:27:33]   plugin.bcrypt: 8 cores detected, 7 threads will be used.
+[11:27:33]   Loaded.
+[11:27:33]  Loading plugin: nativechecker
+[11:27:33]   Loaded.
+[11:27:33]  Loaded 9 plugins.
+
+[11:27:33] 
+[11:27:33] Filterscripts
+[11:27:33] ---------------
+[11:27:33]   Loaded 0 filterscripts.
+
+[11:27:34]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[11:27:34]  
+[11:27:34]  
+[11:27:34]  
+[11:27:34]  ======================================= 
+[11:27:34]  |                                     | 
+[11:27:34]  |        YSI version 4.00.0001        | 
+[11:27:34]  |        By Alex "Y_Less" Cole        | 
+[11:27:34]  |                                     | 
+[11:27:34]  ======================================= 
+[11:27:34]  
+[11:27:34] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3.7 by Abyss Morgan
+[11:27:34] [ SERVER ] I connected to MySQL server successfully!
+[11:27:34] 438
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 1
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 2
+[11:27:34] Zone_owned_team_ID = 2
+[11:27:34] Zone_owned_team_ID = 1
+[11:27:34] Zone_owned_team_ID = 1
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 2
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 1
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] Zone_owned_team_ID = 2
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 1
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 4
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 2
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 6
+[11:27:34] Zone_owned_team_ID = 3
+[11:27:34] Zone_owned_team_ID = 7
+[11:27:34] Zone_owned_team_ID = 2
+[11:27:34] Zone_owned_team_ID = 1
+[11:27:34] Zone_owned_team_ID = 5
+[11:27:34] _________________________________________________________________
+[11:27:34] |								|
+[11:27:34] |								|
+[11:27:34] |		//      ////////  ////////  //       //		|
+[11:27:34] |		//	//	  //	    //	    //		|
+[11:27:34] |		//	//  ////  //  ////  //	   //		|
+[11:27:34] |		//	//    //  //    //  // // // 		|
+[11:27:34] |		///////	////////  ////////  /// ///		|
+[11:27:34] |								|
+[11:27:34] | 								|
+[11:27:34] |                                                                |
+[11:27:34] | {ffa500}LGGW {ffffff}- Lazer Gaming Gang WarZ                                	|
+[11:27:34] | Version - v 1.03                              	|
+[11:27:34] | Forum - https://www.lg-gw.ga                   		|
+[11:27:34] |                                                                |
+[11:27:34] | >> Script By GameOvr <<                                        |
+[11:27:34] |                                                                |
+[11:27:34] | Contributors :-                                                |
+[11:27:34] | 	GameOvr : Scripting + Mapping                           |
+[11:27:34] | 	GREAT_BATTLER : LGGW Forum                              |
+[11:27:34] | 	Scorpion : Discord server                               |
+[11:27:34] | 	Husam_Haider : Sponsership                              |
+[11:27:34] | 	                                                        |
+[11:27:34] | @All Rights Reserved                                           |
+[11:27:34] |________________________________________________________________|
+[11:27:34] Number of vehicle models: 77
+[11:27:34] plugin.bcrypt: Version check failed.
+[11:28:05] [connection] 127.0.0.1:58075 requests connection cookie.
+[11:28:06] [connection] incoming connection: 127.0.0.1:58075 id: 0
+[11:28:06] [join] GameOvr has joined the server (0:127.0.0.1)
+[11:28:55] ( command ) /rules executed by "GameOvr"
+[11:29:14] ( command ) /gang executed by "GameOvr"
+[11:29:24] RCON (In-Game): Player #0 (GameOvr) has logged in.
+[11:29:39] RCON (In-Game): Player [GameOvr] sent command: login yo
+[11:29:39] Unknown command or variable:
+  login
+[11:29:54] ( command ) /setlevel executed by "GameOvr"
+[11:30:15] ( chat ) GameOvr[0]: setkills 0 600
+[11:30:20] ( command ) /setkills executed by "GameOvr"
+[11:30:28] ( command ) /agivecash executed by "GameOvr"
+[11:30:34] ( command ) /gang executed by "GameOvr"
+[11:30:51] ( command ) /gang executed by "GameOvr"
+[11:31:44] ( command ) /dm12 executed by "GameOvr"
+[11:31:46] ( command ) /dm12 executed by "GameOvr"
+[11:31:48] ( command ) /dm executed by "GameOvr"
+[11:31:52] ( command ) /dm6 executed by "GameOvr"
+[11:31:55] ( command ) /exit executed by "GameOvr"
+[11:31:58] ( command ) /dm executed by "GameOvr"
+[11:32:05] ( command ) /dm3 executed by "GameOvr"
+[11:32:08] ( command ) /exit executed by "GameOvr"
+[11:32:12] ( command ) /dm executed by "GameOvr"
+[11:32:20] ( command ) /dm1 executed by "GameOvr"
+[11:32:24] ( command ) /exit executed by "GameOvr"
+[11:32:29] ( command ) /dm7 executed by "GameOvr"
+[11:32:37] ( command ) /exit executed by "GameOvr"
+[11:32:39] ( command ) /dm executed by "GameOvr"
+[11:32:47] ( command ) /dm2 executed by "GameOvr"
+[11:34:05] ( command ) /exit executed by "GameOvr"
+[11:34:21] ( command ) /v executed by "GameOvr"
+[11:34:27] ( command ) /givepriveh executed by "GameOvr"
+[11:34:37] ( command ) /givepriveh executed by "GameOvr"
+[11:34:43] ( command ) /givepriveh executed by "GameOvr"
+[11:34:49] ( command ) /v executed by "GameOvr"
+[11:34:51] ( command ) /v executed by "GameOvr"
+[11:35:12] ( command ) /relog executed by "GameOvr"
+[11:35:16] ( command ) /cmds executed by "GameOvr"
+[11:35:22] ( command ) /spec executed by "GameOvr"
+[11:40:56] [part] GameOvr has left the server (0:1)

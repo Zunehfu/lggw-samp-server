@@ -1,0 +1,4 @@
+new objid;
+objid = CreateDynamicObject(988, 2046.526245, 1364.501464, 10.671875, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 10101, 2notherbuildsfe, Bow_Abpave_Gen);
+SetDynamicObjectMaterial(objid, 1, 10101, 2notherbuildsfe, Bow_Abpave_Gen);

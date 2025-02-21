@@ -1,0 +1,19 @@
+/* Exported using GEditor made by GameOvr */
+
+//Objects
+new objid;
+objid = CreateDynamicObject(988, 2689.291992, -1656.625488, 11.996170, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 10101, 2notherbuildsfe, Bow_church_grass_alt);
+objid = CreateDynamicObject(988, 2690.872314, -1656.625488, 11.996170, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 10101, 2notherbuildsfe, Bow_church_grass_alt);
+
+//Actors
+new actorid;
+actorid = CreateDynamicActor(230, 2702.270263, -1654.648193, 12.364591, 359.839294);
+ApplyDynamicActorAnimation(actorid, "BIKEH", "BIKEh_Ride", 4.0, 1, 0, 0, 0, -1);
+actorid = CreateDynamicActor(230, 2701.075927, -1658.026245, 12.292332, 229.413543);
+ApplyDynamicActorAnimation(actorid, "BIKEH", "BIKEh_Back", 4.0, 1, 0, 0, 0, -1);
+
+//Vehicles
+AddStaticVehicle(542, 2689.270996, -1659.774169, 11.292519, 265.461547, 0, 1, 1);
+AddStaticVehicle(433, 2688.446533, -1654.178833, 11.943943, 89.454689, 0, 1, 1);

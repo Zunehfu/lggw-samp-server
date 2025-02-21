@@ -1,0 +1,27 @@
+/* Exported using GEditor made by GameOvr */
+
+//Objects
+new objid;
+objid = CreateDynamicObject(988, 1257.313354, -1569.802246, 13.382808, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 10101, 2notherbuildsfe, Bow_church_grass_alt);
+SetDynamicObjectMaterial(objid, 1, 10101, 2notherbuildsfe, Bow_church_grass_alt);
+SetDynamicObjectMaterial(objid, 3, 10101, 2notherbuildsfe, Bow_church_grass_alt);
+MoveDynamicObject(objid, 1258.313354, -1567.802246, 16.382812, 1.000000, 0.000000, 0.000000, 0.000000);
+objid = CreateDynamicObject(19325, 1680.019287, -1451.253051, 15.656881, 90.000000, 90.000000, 0.000000);
+MoveDynamicObject(objid, 1678.869262, -1451.253051, 15.656881, 1.000000, 90.000000, 90.000000, 0.000000);
+objid = CreateDynamicObject(19325, 1684.139282, -1451.252563, 15.226874, 450.000000, 180.000000, 270.000000);
+MoveDynamicObject(objid, 1685.289306, -1451.252563, 15.226874, 1.000000, 450.000000, 180.000000, 270.000000);
+objid = CreateDynamicObject(1251, 1682.028686, -1447.472290, 19.342830, 90.000000, 0.000000, 0.000000);
+MoveDynamicObject(objid, 1680.878662, -1447.472290, 20.342830, 1.000000, 90.000000, 0.000000, 0.000000);
+objid = CreateDynamicObject(1251, 1682.158813, -1451.242187, 15.872817, 90.000000, 0.000000, 0.000000);
+MoveDynamicObject(objid, 1681.008789, -1451.242187, 15.872817, 0.000000, 90.000000, 0.000000, 0.000000);
+objid = CreateDynamicObject(2395, 2140.849609, -1220.994750, 23.820297, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "Name", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+objid = CreateDynamicObject(2267, 2128.765380, -1217.600585, 24.980297, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "hello", 90, "Arial", 40, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(objid, 1, "hello", 90, "Arial", 40, 1, 0xFFFFFFFF, 0xFF000000, 1);
+
+//Actors
+new actorid;
+
+//Vehicles

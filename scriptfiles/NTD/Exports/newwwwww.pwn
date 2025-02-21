@@ -1,0 +1,864 @@
+//dm9 blocks
+	CreateObject(744, 98.805076, 1920.383544, 17.335149, 0.000000, 0.000000, 0.000000);
+	CreateObject(2395, 226.300018, 1873.819580, 12.754375, 0.000000, 0.000000, 270.000000);
+	CreateObject(2395, 226.459991, 1871.469726, 12.624362, 0.000000, 0.000000, 90.000000);
+	CreateObject(2395, 264.932830, 1880.018310, 15.660654, 270.000000, 0.000000, 0.000000);
+	CreateObject(2395, 264.932830, 1882.759277, 15.660654, 270.000000, 0.000000, 0.000000);
+	CreateObject(2395, 264.932830, 1885.491821, 15.660654, 270.000000, 0.000000, 0.000000);
+	CreateObject(2395, 268.662750, 1885.491821, 15.660654, 270.000000, 0.000000, 0.000000);
+	CreateObject(2395, 268.662750, 1882.760864, 15.660654, 270.000000, 0.000000, 0.000000);
+	CreateObject(2395, 268.662750, 1880.020385, 15.660654, 270.000000, 0.000000, 0.000000);
+	CreateObject(2395, 272.382690, 1880.020385, 15.660654, 270.000000, 0.000000, 0.000000);
+	CreateObject(2395, 272.382690, 1882.760742, 15.660654, 270.000000, 0.000000, 0.000000);
+	CreateObject(2395, 272.382690, 1885.490600, 15.660654, 270.000000, 0.000000, 0.000000);
+
+	new tmpobjid;
+	//tune shop + vehicle shop  (map by GameOvr) mapped with pottus texture studio
+	tmpobjid = CreateObject(19379, 1701.491577, -1455.676391, 12.476868, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 12844, "cos_liquorstore", "b_wtilesreflect", 0x00000000);
+	tmpobjid = CreateObject(19379, 1691.009765, -1455.676391, 12.466875, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1701.491577, -1465.157714, 12.466875, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 12844, "cos_liquorstore", "b_wtilesreflect", 0x00000000);
+	tmpobjid = CreateObject(19379, 1691.009643, -1465.157714, 12.466875, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1680.517822, -1465.157714, 12.466875, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1680.517822, -1455.674194, 12.466875, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1673.227172, -1455.674194, 12.476875, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1673.227172, -1465.147705, 12.476874, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19454, 1706.664184, -1455.660888, 14.282814, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1706.664184, -1465.153198, 14.282814, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1706.664184, -1465.153198, 17.722816, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1706.664184, -1455.662475, 17.732805, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(2960, 1699.798828, -1463.328979, 13.462800, 0.000000, 90.000000, 180.000000);
+	SetObjectMaterial(tmpobjid, 0, 14612, "ab_abattoir_box", "pipes_csite_256", 0x00000000);
+	tmpobjid = CreateObject(19454, 1696.325073, -1459.170166, 17.782815, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1696.315063, -1462.059936, 14.322801, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1696.315063, -1465.181762, 14.322801, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(2960, 1699.798828, -1458.477539, 13.462800, 0.000000, 90.000000, 180.000000);
+	SetObjectMaterial(tmpobjid, 0, 14612, "ab_abattoir_box", "pipes_csite_256", 0x00000000);
+	tmpobjid = CreateObject(2960, 1702.869873, -1458.477539, 13.462800, 0.000000, 90.000000, 180.000000);
+	SetObjectMaterial(tmpobjid, 0, 14612, "ab_abattoir_box", "pipes_csite_256", 0x00000000);
+	tmpobjid = CreateObject(2960, 1699.927856, -1463.508422, 13.462800, 0.000000, 90.000000, 270.000000);
+	SetObjectMaterial(tmpobjid, 0, 7418, "vgnbballsign2", "ws_chipboard2", 0x00000000);
+	tmpobjid = CreateObject(2960, 1699.927856, -1458.637329, 13.462800, 0.000000, 90.000000, 270.000000);
+	SetObjectMaterial(tmpobjid, 0, 7418, "vgnbballsign2", "ws_chipboard2", 0x00000000);
+	tmpobjid = CreateObject(2960, 1702.998779, -1458.637329, 13.462800, 0.000000, 90.000000, 270.000000);
+	SetObjectMaterial(tmpobjid, 0, 7418, "vgnbballsign2", "ws_chipboard2", 0x00000000);
+	tmpobjid = CreateObject(19379, 1701.491577, -1455.676391, 19.606914, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 17298, "weefarmcuntw", "sjmscruffhut4", 0x00000000);
+	tmpobjid = CreateObject(19379, 1701.491577, -1465.118408, 19.606914, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 17298, "weefarmcuntw", "sjmscruffhut4", 0x00000000);
+	tmpobjid = CreateObject(19454, 1696.315063, -1465.181762, 17.792818, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1701.061401, -1469.905395, 14.282814, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1701.061401, -1469.905395, 17.772808, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19087, 1697.293701, -1463.610961, 13.402810, 0.000000, 90.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, -1, "none", "none", 0xFF000000);
+	tmpobjid = CreateObject(19454, 1701.771972, -1469.885375, 14.282814, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1701.771972, -1469.885375, 17.762819, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1696.323120, -1452.593627, 14.712821, 90.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19398, 1696.324096, -1455.663085, 14.302819, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(3761, 1703.464843, -1469.046142, 14.502816, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 5150, "wiresetc_las2", "ganggraf01_LA_m", 0x00000000);
+	tmpobjid = CreateObject(19454, 1701.935791, -1450.930419, 18.186895, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19454, 1701.065063, -1450.920410, 18.186895, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19435, 1705.771606, -1450.938354, 11.816884, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19435, 1705.771606, -1450.938354, 15.296889, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(2960, 1702.998779, -1463.508422, 13.462800, 0.000000, 90.000000, 270.000000);
+	SetObjectMaterial(tmpobjid, 0, 7418, "vgnbballsign2", "ws_chipboard2", 0x00000000);
+	tmpobjid = CreateObject(19435, 1697.209228, -1450.938354, 15.296889, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(19893, 1705.845825, -1463.635131, 13.448348, 0.000000, 0.000000, -113.300003);
+	SetObjectMaterial(tmpobjid, 1, 14530, "estate2", "Auto_windsor", 0x00000000);
+	tmpobjid = CreateObject(19379, 1682.274414, -1469.883056, 14.072814, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19483, 1696.434448, -1455.832275, 17.210899, -7.699998, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "Auto_hustler", 0x00000000);
+	tmpobjid = CreateObject(19483, 1696.434448, -1464.699707, 17.975900, 2.999995, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "Auto_Slamvan2", 0x00000000);
+	tmpobjid = CreateObject(19483, 1706.535400, -1464.072265, 17.087511, 2.999995, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "Auto_feltzer", 0x00000000);
+	tmpobjid = CreateObject(19483, 1706.535400, -1458.180053, 15.673946, -4.100006, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 14859, "gf1", "mp_apt1_pos4", 0x00000000);
+	SetObjectMaterial(tmpobjid, 0, 14612, "ab_abattoir_box", "pipes_csite_256", 0x00000000);
+	tmpobjid = CreateObject(19435, 1697.209228, -1450.938354, 11.826886, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 9507, "boxybld2_sfw", "gz_vic4e", 0x00000000);
+	tmpobjid = CreateObject(2960, 1702.868896, -1463.328979, 13.462800, 0.000000, 90.000000, 180.000000);
+	SetObjectMaterial(tmpobjid, 0, 14612, "ab_abattoir_box", "pipes_csite_256", 0x00000000);
+	tmpobjid = CreateObject(19482, 1701.492675, -1451.062866, 17.892808, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 13598, "destructo", "sunshinebillboard", 0x00000000);
+	tmpobjid = CreateObject(19482, 1701.492675, -1450.812622, 17.892808, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 11301, "carshow_sfse", "ws_Transfender_dirty", 0x00000000);
+	tmpobjid = CreateObject(19826, 1699.947998, -1463.585449, 14.052815, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 1, -1, "none", "none", 0xFF9900FF);
+	tmpobjid = CreateObject(9131, 1695.859741, -1451.220947, 13.646877, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1695.859741, -1451.220947, 15.916878, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1695.859741, -1451.220947, 18.176879, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1694.338867, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1692.077880, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1689.807373, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1687.537353, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1685.266723, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1683.758056, -1451.220947, 13.646877, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1694.338867, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1668.346191, -1451.220947, 13.646877, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1669.835693, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1672.105590, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1674.376098, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1676.646484, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1678.917358, -1451.219360, 12.706877, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1680.417236, -1451.220947, 13.646877, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1692.068603, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1689.798217, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1687.527832, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1685.257446, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1682.986816, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1680.716552, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1678.446411, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1676.176147, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1673.905395, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1671.634765, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1669.374267, -1451.219360, 18.926893, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1668.346191, -1451.220947, 15.896882, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1668.346191, -1451.220947, 18.156894, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1683.758056, -1451.220947, 15.896883, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1683.758056, -1451.220947, 18.166885, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1680.417236, -1451.220947, 15.886871, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1680.417236, -1451.220947, 18.126874, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(19379, 1691.009765, -1455.676391, 19.246925, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1691.009643, -1465.157714, 19.256898, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1680.509277, -1465.157714, 19.256898, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1673.227172, -1465.147705, 19.236864, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1680.519409, -1455.676391, 19.256925, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1673.226440, -1455.676391, 19.246925, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1668.053710, -1455.651245, 14.082822, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1668.053710, -1465.152343, 14.072815, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19379, 1677.534912, -1465.152343, 14.072814, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19454, 1672.796142, -1460.426513, 17.422845, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19454, 1669.841918, -1460.396484, 11.072818, 90.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19454, 1675.692260, -1460.396484, 11.072818, 90.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(9131, 1673.836669, -1460.694458, 12.272812, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1671.716064, -1460.694458, 14.532814, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1673.836669, -1460.694458, 14.542822, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1671.716064, -1460.694458, 12.282814, 0.000000, 0.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(9131, 1672.757812, -1460.692138, 15.292818, 0.000000, 90.000000, 0.000000);
+	SetObjectMaterial(tmpobjid, 0, 18646, "matcolours", "grey-80-percent", 0x00000000);
+	tmpobjid = CreateObject(19379, 1691.894897, -1469.883056, 14.072814, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(2960, 1687.148803, -1465.148681, 19.092805, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1682.508789, -1465.148681, 19.072807, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1677.998291, -1465.148681, 19.072790, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1674.267456, -1465.148681, 19.042779, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1695.550903, -1465.148681, 19.102804, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1691.290405, -1465.148681, 19.092807, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1670.496704, -1465.148681, 19.062799, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1670.496704, -1455.647094, 19.052799, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1674.258422, -1455.657470, 19.082794, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1678.009277, -1455.657470, 19.072790, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1682.489990, -1455.657470, 19.082794, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1687.171020, -1455.657470, 19.102806, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1691.332031, -1455.657470, 19.092802, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1695.543212, -1455.657470, 19.062795, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1699.842163, -1465.148681, 19.102804, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1703.192382, -1465.148681, 19.102804, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1699.822875, -1455.657470, 19.092802, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(2960, 1703.153320, -1455.657470, 19.092802, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 19058, "xmasboxes", "wrappingpaper28", 0x00000000);
+	tmpobjid = CreateObject(19893, 1693.626708, -1462.418212, 13.332813, 0.000000, 0.000000, 110.699951);
+	SetObjectMaterial(tmpobjid, 1, 2813, "gb_books01", "GB_novels09", 0x00000000);
+	tmpobjid = CreateObject(19482, 1682.141723, -1450.742187, 19.532800, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{6d6868}Vehicle Shop", 0, 130, "Ariel", 70, 1, 0x00000000, 0x00000000, 1);
+	tmpobjid = CreateObject(19482, 1682.171752, -1450.771606, 17.712772, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{6d6868} Los Santos City", 0, 130, "Ariel", 50, 1, 0x00000000, 0x00000000, 0);
+	tmpobjid = CreateObject(19482, 1682.141723, -1450.772216, 17.742763, 0.000000, 0.000000, 90.000000); 
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{000000} Los Santos City", 0, 130, "Ariel", 50, 1, 0x00000000, 0x00000000, 0);
+	tmpobjid = CreateObject(19482, 1682.091674, -1450.802246, 19.892803, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 18835, "ab_abbatoir01", "ab_tiles", 0x00000000);
+	tmpobjid = CreateObject(19482, 1682.091674, -1450.772216, 19.542797, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{000000}Vehicle Shop", 0, 130, "Ariel", 70, 1, 0x00000000, 0x00000000, 1);
+	tmpobjid = CreateObject(19483, 1682.177978, -1450.786743, 20.768850, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{000000}/", 0,  130, "Webdings", 100, 1, 0x00000000, 0x00000000, 1);
+	tmpobjid = CreateObject(19483, 1681.937866, -1450.796752, 20.768850, 0.000000, 0.000000, 270.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{6d6868}/", 0,  130, "Webdings", 100, 1, 0x00000000, 0x00000000, 1);
+	tmpobjid = CreateObject(19483, 1681.927734, -1450.796752, 20.248849, 0.000000, 0.000000, 90.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{000000}/", 0,  130, "Webdings", 100, 1, 0x00000000, 0x00000000, 1);
+	tmpobjid = CreateObject(19483, 1682.178100, -1450.786743, 20.248846, 0.000000, 0.000000, 270.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{6d6868}/", 0,  130, "Webdings", 100, 1, 0x00000000, 0x00000000, 1);
+	tmpobjid = CreateObject(19482, 1672.650146, -1460.542236, 18.374271, 0.000000, 0.000000, 270.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{FF8000} Los Santos", 0, 130, "Ariel", 100, 1, 0x00000000, 0x00000000, 1);
+	tmpobjid = CreateObject(19482, 1672.650146, -1460.542236, 17.134260, 0.000000, 0.000000, 270.000000);
+	SetObjectMaterial(tmpobjid, 0, 10101, "2notherbuildsfe", "ferry_build14", 0x00000000);
+	SetObjectMaterialText(tmpobjid, "{FF8000} Vehicle Shop", 0, 130, "Ariel", 85, 1, 0x00000000, 0x00000000, 1);
+	tmpobjid = CreateObject(19872, 1692.827148, -1466.767700, 10.672801, 0.000000, 0.000000, 90.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);  
+	tmpobjid = CreateObject(19872, 1686.586303, -1466.789306, 10.672801, 0.000000, 0.000000, 180.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);
+	tmpobjid = CreateObject(19872, 1680.955566, -1466.809326, 10.672801, 0.000000, 0.000000, 180.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);
+	tmpobjid = CreateObject(19872, 1680.924438, -1457.859252, 10.672801, 0.000000, 0.000000, 180.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);
+	tmpobjid = CreateObject(19872, 1686.555297, -1457.839355, 10.672801, 0.000000, 0.000000, 180.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);
+	tmpobjid = CreateObject(19872, 1692.796630, -1458.027587, 10.672801, 0.000000, 0.000000, 90.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);
+	tmpobjid = CreateObject(19872, 1692.778686, -1453.056274, 10.672801, 0.000000, 0.000000, 90.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);
+	tmpobjid = CreateObject(19872, 1671.218750, -1456.152343, 10.672801, 0.000000, 0.000000, 180.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);
+	tmpobjid = CreateObject(19872, 1675.799560, -1456.136230, 10.672801, 0.000000, 0.000000, 180.199996);
+	SetObjectMaterial(tmpobjid, 0, 7520, "vgnretail72", "solairwheel64", 0x00000000);
+
+	CreateObject(1897, 1696.462280, -1463.621337, 12.673006, -54.999996, 0.000000, 270.000000);
+	CreateObject(1080, 1696.943847, -1465.847778, 13.742817, 0.000000, 0.000000, 90.000000);
+	CreateObject(1080, 1696.943847, -1465.417358, 13.742817, 0.000000, 0.000000, 90.000000);
+	CreateObject(1080, 1696.943847, -1465.047119, 13.742817, 0.000000, 0.000000, 90.000000);
+	CreateObject(1080, 1696.943847, -1464.656982, 13.742817, 0.000000, 0.000000, 90.000000);
+	CreateObject(1080, 1696.943847, -1464.296630, 13.742817, 0.000000, 0.000000, 90.000000);
+	CreateObject(1327, 1698.466796, -1468.590576, 13.092814, 0.000000, 90.000000, -22.500007);
+	CreateObject(1327, 1698.466796, -1468.590576, 12.512810, 0.000000, 90.000000, 0.000000);
+	CreateObject(1327, 1698.466796, -1468.590576, 13.732815, 0.000000, 90.000000, -49.600025);
+	CreateObject(1080, 1696.943847, -1463.926391, 13.742817, 0.000000, 0.000000, 90.000000);
+	CreateObject(1003, 1705.351806, -1469.048217, 12.552809, 0.000000, 0.000000, 0.000000);
+	CreateObject(1003, 1702.721801, -1468.827758, 12.572918, -36.900012, 0.000000, 0.000000);
+	CreateObject(1009, 1704.515502, -1468.825317, 13.322805, 0.000000, 0.000000, 90.000000);
+	CreateObject(638, 1669.736816, -1460.837280, 13.252819, 0.000000, 0.000000, 90.000000);
+	CreateObject(1009, 1704.150512, -1468.695434, 13.332805, 0.000000, 0.000000, 127.599990);
+	CreateObject(1010, 1702.935302, -1468.749267, 13.372820, 0.000000, 0.000000, 90.000000);
+	CreateObject(1010, 1702.604980, -1468.749267, 13.372820, 0.000000, 0.000000, 90.000000);
+	CreateObject(1010, 1702.104858, -1468.749267, 13.372820, 0.000000, 0.000000, 121.499977);
+	CreateObject(1142, 1705.678466, -1468.684692, 14.122809, 0.000000, 0.000000, -16.399999);
+	CreateObject(1142, 1705.172607, -1468.776000, 14.122809, 0.000000, 0.000000, -16.399999);
+	CreateObject(1144, 1704.261474, -1468.930786, 14.122808, 0.000000, 0.000000, 58.299999);
+	CreateObject(1144, 1703.599243, -1469.203369, 14.122808, 0.000000, 0.000000, 58.299999);
+	CreateObject(2798, 1702.625366, -1468.914794, 14.152817, 90.000000, 41.499996, 0.000000);
+	CreateObject(19921, 1701.282104, -1468.896850, 13.392809, 0.000000, 0.000000, 0.000000);
+	CreateObject(1650, 1705.932006, -1468.737792, 13.652812, 0.000000, 0.000000, -135.500015);
+	CreateObject(1650, 1705.701171, -1468.966796, 13.652812, 0.000000, 0.000000, -63.200012);
+	CreateObject(1650, 1705.534057, -1468.609619, 13.652812, 0.000000, 0.000000, -114.500007);
+	CreateObject(1116, 1701.203979, -1468.285034, 14.142808, 90.000000, 0.000000, 0.000000);
+	CreateObject(1116, 1701.203979, -1468.619506, 14.331352, 121.599960, 0.000000, 0.000000);
+	CreateObject(1897, 1696.462280, -1466.031616, 12.673006, -54.999996, 0.000000, 270.000000);
+	CreateObject(941, 1705.999877, -1463.232543, 12.972811, 0.000000, 0.000000, 90.000000);
+	CreateObject(2690, 1706.379638, -1467.357543, 12.912461, -0.099999, -0.200000, -86.399986);
+	CreateObject(2690, 1706.351440, -1466.908447, 12.910889, -0.099999, -0.200000, -86.399986);
+	CreateObject(2690, 1706.186157, -1467.149169, 12.912010, -0.099999, -0.200000, -86.399986);
+	CreateObject(19815, 1706.578979, -1465.799194, 14.402810, 0.000000, 0.000000, -90.000000);
+	CreateObject(11728, 1706.624633, -1464.072509, 14.362819, 0.000000, 0.000000, -90.000000);
+	CreateObject(1010, 1706.014160, -1462.610107, 13.402812, 0.000000, 0.000000, 146.899993);
+	CreateObject(19835, 1705.912109, -1463.239135, 13.552816, 0.000000, 0.000000, 0.000000);
+	CreateObject(19483, 1702.377319, -1455.883789, 12.562807, 0.000000, 0.000000, 0.000000);
+	CreateObject(1897, 1704.856201, -1451.949584, 16.342802, 90.000000, 0.000000, 0.000000);
+	CreateObject(1897, 1698.085327, -1451.949584, 16.342802, 90.000000, 0.000000, 0.000000);
+	CreateObject(1722, 1706.504882, -1458.593750, 12.562807, 0.000000, 0.000000, 90.000000);
+	CreateObject(1722, 1706.504882, -1458.043701, 12.562807, 0.000000, 0.000000, 90.000000);
+	CreateObject(1722, 1706.504882, -1457.473266, 12.562807, 0.000000, 0.000000, 90.000000);
+	CreateObject(1722, 1706.504882, -1456.902832, 12.562807, 0.000000, 0.000000, 90.000000);
+	CreateObject(1722, 1706.504882, -1456.342773, 12.562807, 0.000000, 0.000000, 90.000000);
+	CreateObject(19903, 1702.820312, -1464.546752, 12.552811, 0.000000, 0.000000, -38.500000);
+	CreateObject(19826, 1697.146118, -1451.040893, 13.922807, 0.000000, 0.000000, 0.000000);
+	CreateObject(19325, 1693.127685, -1451.014892, 13.036890, 0.000000, 0.000000, 90.000000);
+	CreateObject(19325, 1693.127685, -1451.014892, 17.156902, 0.000000, 0.000000, 90.000000);
+	CreateObject(19325, 1686.775878, -1451.014892, 13.036890, 0.000000, 0.000000, 90.000000);
+	CreateObject(19325, 1686.775878, -1451.014892, 17.126901, 0.000000, 0.000000, 90.000000);
+	CreateObject(19325, 1677.435424, -1451.014892, 17.126901, 0.000000, 0.000000, 90.000000);
+	CreateObject(19325, 1671.294555, -1451.014892, 17.126901, 0.000000, 0.000000, 90.000000);
+	CreateObject(19325, 1671.294555, -1451.014892, 13.036899, 0.000000, 0.000000, 90.000000);
+	CreateObject(19325, 1677.445800, -1451.014892, 13.036899, 0.000000, 0.000000, 90.000000);
+	CreateObject(638, 1675.838134, -1460.837280, 13.252819, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1682.451171, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1677.970825, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1674.309814, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1670.528930, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1687.182495, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1691.332641, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1695.503295, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1695.503295, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1691.312377, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1687.121582, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1682.501342, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1677.970703, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1674.200195, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1670.520019, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1699.803344, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1703.122680, -1456.296142, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1699.873657, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1893, 1703.194091, -1465.566894, 18.812801, 0.000000, 0.000000, 90.000000);
+	CreateObject(1502, 1696.275512, -1454.882324, 12.552812, 0.000000, 0.000000, -90.000000);
+	CreateObject(2173, 1693.656616, -1462.566650, 12.552811, 0.000000, 0.000000, 90.000000);
+	CreateObject(2253, 1693.288452, -1462.886108, 13.592818, 0.000000, 0.000000, 0.000000);
+	CreateObject(2253, 1693.288452, -1461.225952, 13.592818, 0.000000, 0.000000, 0.000000);
+	CreateObject(19807, 1693.703369, -1462.826538, 13.502819, 0.000000, 0.000000, 90.000000);
+	CreateObject(19564, 1693.334838, -1461.470214, 13.352812, 0.000000, 0.000000, 0.000000);
+	CreateObject(2196, 1693.685791, -1461.484008, 13.342820, 0.000000, 0.000000, 0.000000);
+	CreateObject(2485, 1693.740844, -1461.505615, 13.322813, 0.000000, 0.000000, 0.000000);
+	CreateObject(1671, 1694.719604, -1462.041259, 12.972812, 0.000000, 0.000000, 270.000000);
+	CreateObject(1671, 1692.429443, -1462.653686, 12.972812, 0.000000, 0.000000, 117.999954);
+	CreateObject(1671, 1692.285034, -1461.348510, 12.972812, 0.000000, 0.000000, 52.699970);
+	CreateObject(644, 1683.782958, -1449.932617, 12.866871, 0.000000, 0.000000, 0.000000);
+	CreateObject(644, 1680.372802, -1449.932617, 12.866871, 0.000000, 0.000000, 0.000000);
+
+	//tune shop++
+	CreateObject(19458, 1682.227661, -1464.004760, 11.562800, 0.000000, 0.000000, 90.099884);
+	CreateObject(19458, 1688.153320, -1465.676879, 8.444732, 89.899978, -0.700000, -179.800140);
+	CreateObject(19458, 1688.131347, -1468.208129, 8.440316, 89.899978, -0.700000, -179.800140);
+	CreateObject(19458, 1682.227661, -1464.004760, 11.562800, 0.000000, 0.000000, 90.099884);
+	CreateObject(14394, 1683.808959, -1463.097412, 12.482813, 0.000000, -0.799999, -90.099967);
+	CreateObject(19125, 1677.792602, -1464.222778, 13.442810, 0.000000, 0.000000, 0.000000);
+	CreateObject(19125, 1687.813598, -1464.222778, 13.102807, 0.000000, 0.000000, 0.000000);
+	CreateObject(19125, 1687.853759, -1469.644653, 13.102808, 0.000000, 0.000000, 0.000000);
+	CreateObject(18653, 1677.967529, -1469.325561, 13.232810, 0.000000, 0.000000, -147.500076);
+	CreateObject(2631, 1679.380249, -1466.990478, 13.288981, 0.000000, -0.600002, 0.100000);
+	CreateObject(2631, 1679.369750, -1465.113281, 13.297826, 0.000000, -0.600002, 0.100000);
+	CreateObject(2631, 1683.149658, -1465.161987, 13.329716, 0.000000, -0.600002, 0.400000);
+	CreateObject(2631, 1685.865844, -1468.792480, 13.357883, 0.000000, -0.600002, 0.400000);
+	CreateObject(2631, 1685.858886, -1465.140869, 13.358096, 0.000000, -0.600002, 0.400000);
+	CreateObject(2631, 1685.863159, -1467.109863, 13.357991, 0.000000, -0.600002, 0.400000);
+	CreateObject(2631, 1683.163574, -1467.160400, 13.329717, 0.000000, -0.600002, 0.400000);
+	CreateObject(2631, 1679.373413, -1468.838134, 13.289925, 0.000000, -0.600002, 0.400000);
+	CreateObject(2631, 1683.175292, -1468.811279, 13.329717, 0.000000, -0.600002, 0.400000);
+	CreateObject(19458, 1687.791015, -1468.205078, 8.440320, 89.899978, -0.700000, -179.800140);
+	CreateObject(19458, 1682.377197, -1464.114746, 11.562800, 0.000000, 0.000000, 88.999900);
+	CreateObject(19458, 1687.792968, -1465.673950, 8.444734, 89.899978, -0.700000, -179.800140);
+	
+	//Gun Game
+	CreateObject(19313, 1559.335327, 1917.478393, 13.210295, 0.000000, 0.000000, -83.300010);
+	CreateObject(19313, 1557.695678, 1931.431762, 13.210295, 0.000000, 0.000000, -83.300010);
+	CreateObject(5821, 1565.801391, 1931.984008, 9.590299, 0.000000, 0.000000, -84.899971);
+	CreateObject(3593, 1664.893920, 1973.995117, 11.510308, 0.000000, 0.000000, -57.699989);
+	CreateObject(3475, 1670.025146, 1999.335449, 14.160312, 0.000000, 0.000000, -88.299987);
+	CreateObject(3475, 1664.027099, 1999.158203, 14.160312, 0.000000, 0.000000, -88.299987);
+	CreateObject(19608, 1568.263793, 1891.517089, 9.920308, 0.000000, 0.000000, 178.800109);
+	CreateObject(19339, 1568.392700, 1892.631835, 10.360308, 0.000000, 0.000000, 0.000000);
+	CreateObject(3475, 1579.815307, 1961.267822, 13.330307, 0.000000, 0.000000, 0.000000);
+	CreateObject(3475, 1579.815307, 1967.077636, 13.330307, 0.000000, 0.000000, 0.000000);
+	CreateObject(3475, 1579.815307, 1972.937744, 13.330307, 0.000000, 0.000000, 0.000000);
+	CreateObject(3475, 1565.023925, 1888.570556, 13.380311, 0.000000, 0.000000, -90.100028);
+	CreateObject(3475, 1570.844970, 1888.560913, 13.380311, 0.000000, 0.000000, -90.100028);
+	CreateObject(3406, 1563.729858, 1925.043823, 11.360321, 0.000000, 0.000000, -81.499984);
+	CreateObject(3515, 1630.770385, 1944.976440, 9.265646, 0.000000, 0.000000, 0.000000);
+	CreateObject(3475, 1627.979614, 1888.375976, 13.190312, 0.000000, 0.000000, -89.999946);
+	CreateObject(19313, 1557.695678, 1931.431762, 13.210294, 0.000000, 0.000000, -83.300010);
+	CreateObject(19313, 1559.335327, 1917.478393, 13.210294, 0.000000, 0.000000, -83.300010);
+	CreateObject(5821, 1565.801391, 1931.984008, 9.590298, 0.000000, 0.000000, -84.899971);
+	CreateObject(13591, 1666.453979, 1972.512451, 10.700311, 0.000000, 0.000000, -39.999996);
+	CreateObject(18251, 1671.521362, 1933.388916, 18.820297, 0.000000, 0.000000, -179.800064);
+	CreateObject(3515, 1609.779296, 1945.646728, 9.265646, 0.000000, 0.000000, 0.000000);
+	CreateObject(19870, 1674.318115, 1923.104614, 12.924360, 0.000000, 0.000000, -92.599945);
+	CreateObject(3475, 1622.109619, 1888.375976, 13.190312, 0.000000, 0.000000, -89.999946);
+
+	//Easter eggs
+	CreateObject(3524, 818.590881, -1092.026733, 24.101152, 0.000000, 0.000000, 0.000000); 
+	CreateObject(3524, 812.470703, -1092.026733, 24.101152, 0.000000, 0.000000, 0.000000);
+	CreateObject(19056, 815.564025, -1093.239379, 25.370080, 0.000000, 0.000000, 0.000000);
+	CreateObject(19056, 393.374176, -2055.077148, 13.425203, 0.000000, 0.000000, 0.000000);
+	CreateObject(18655, 396.289916, -2055.139648, 12.046230, 0.000000, 0.000000, 0.000000);
+	CreateObject(19056, 1117.794311, -2037.017333, 78.420944, 0.000000, 0.000000, 0.000000);
+	CreateObject(18655, 1118.433227, -2034.062988, 76.816551, 0.000000, 0.000000, 81.000000);
+	CreateObject(19056, 1415.894042, -807.208984, 84.596931, 0.000000, 0.000000, 0.000000);
+	CreateObject(18655, 1418.925415, -806.281127, 83.828819, 0.000000, 0.000000, 0.000000);
+	CreateObject(18655, 1412.563842, -806.281127, 83.828819, 0.000000, 0.000000, 172.299987);
+	CreateObject(19056, 2940.310302, -2051.727050, 3.198043, 0.000000, 0.000000, 0.000000);
+	CreateObject(18655, 2940.539550, -2054.636962, 2.008044, 0.000000, 0.000000, -79.899978);
+
+	   //dm7 map
+	tmpobjid =  CreateObject(18981, 638.6561, 1719.2890, 484.5446, 0.0000, 0.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 13295, "ce_terminal", "des_adobewall2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 625.6966, 1706.8703, 496.5546, 0.0000, 90.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 11425, "des_clifftown", "des_adobewall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19604, 639.0688, 1720.6423, 492.2246, 0.0000, 0.0000, 90.0000); //WaterPlane2
+	tmpobjid =  CreateObject(18981, 613.7261, 1719.2890, 497.8649, 0.0000, 0.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 6867, "vgnpwrmainbld", "sw_wallbrick_02", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.6519, 1741.3360, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 625.6966, 1735.7403, 496.5546, 0.0000, 90.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 11425, "des_clifftown", "des_adobewall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19604, 619.0693, 1720.6423, 492.2246, 0.0000, 0.0000, 90.0000); //WaterPlane2
+	tmpobjid =  CreateObject(19604, 629.0695, 1720.6423, 492.2246, 0.0000, 0.0000, 90.0000); //WaterPlane2
+	tmpobjid =  CreateObject(18981, 625.6966, 1718.8691, 483.7146, 0.0000, 0.0000, 90.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 13295, "ce_terminal", "des_adobewall2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 613.7361, 1719.2890, 484.5446, 0.0000, 0.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 13295, "ce_terminal", "des_adobewall2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 613.7261, 1744.2885, 497.8649, 0.0000, 0.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 6867, "vgnpwrmainbld", "sw_wallbrick_02", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 613.7261, 1694.2987, 497.8649, 0.0000, 0.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 6867, "vgnpwrmainbld", "sw_wallbrick_02", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 625.7164, 1693.8892, 497.8645, 0.0000, 0.0000, 90.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 6867, "vgnpwrmainbld", "sw_wallbrick_02", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 625.7164, 1748.6494, 497.8640, 0.0000, 0.0000, 90.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 6867, "vgnpwrmainbld", "sw_wallbrick_02", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 638.6760, 1735.9086, 497.8645, 0.0000, 0.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 6867, "vgnpwrmainbld", "sw_wallbrick_02", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 638.6761, 1710.9288, 497.8649, 0.0000, 0.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 6867, "vgnpwrmainbld", "sw_wallbrick_02", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 638.6761, 1685.9289, 497.8640, 0.0000, 0.0000, 0.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 6867, "vgnpwrmainbld", "sw_wallbrick_02", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19790, 614.6934, 1707.9929, 494.7000, 0.0000, 0.0000, 0.0000); //Cube5mx5m
+	SetObjectMaterial(tmpobjid, 0, 1426, "break_scaffold", "cheerybox03", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19790, 637.9835, 1708.0731, 494.7000, 0.0000, 0.0000, 0.0000); //Cube5mx5m
+	SetObjectMaterial(tmpobjid, 0, 1426, "break_scaffold", "cheerybox03", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19790, 614.6934, 1734.9831, 494.7000, 0.0000, 0.0000, 0.0000); //Cube5mx5m
+	SetObjectMaterial(tmpobjid, 0, 1426, "break_scaffold", "cheerybox03", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19790, 637.9835, 1734.9831, 494.7000, 0.0000, 0.0000, 0.0000); //Cube5mx5m
+	SetObjectMaterial(tmpobjid, 0, 1426, "break_scaffold", "cheerybox03", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.2025, 1740.4063, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.2025, 1738.3575, 498.5082, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 625.2826, 1740.4067, 499.8481, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.1925, 1740.3863, 499.4881, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.2025, 1741.3360, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.6524, 1740.4063, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.6524, 1740.4063, 499.4983, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 630.6221, 1736.4210, 500.0315, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(18766, 627.5520, 1736.4210, 500.0304, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(18766, 621.4520, 1736.4210, 500.0304, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(18766, 623.1419, 1735.9306, 500.0314, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(1437, 624.5335, 1741.7770, 495.5811, 0.0000, 0.0000, 180.0000); //DYN_LADDER_2
+	tmpobjid =  CreateObject(18762, 630.1825, 1740.3764, 498.5082, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.6524, 1740.4063, 498.5082, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.1925, 1733.3780, 499.8481, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.2025, 1728.9671, 498.5082, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.2025, 1726.6367, 499.8481, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 628.1928, 1724.6367, 497.5083, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 625.6966, 1723.7095, 483.7146, 0.0000, 0.0000, 90.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 13295, "ce_terminal", "des_adobewall2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.1926, 1731.8662, 501.2081, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6526, 1733.3773, 499.8481, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6728, 1728.9671, 499.4682, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 623.5031, 1724.6463, 499.8481, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.2028, 1737.4365, 497.5083, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.2025, 1738.3565, 499.4980, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.2030, 1728.9676, 499.5082, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.2028, 1727.5975, 497.5083, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 630.6223, 1728.9199, 500.0310, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(18766, 621.4520, 1728.9113, 500.0325, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(18766, 625.9226, 1728.9113, 500.0320, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(18762, 625.2826, 1724.6469, 499.8481, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 624.6326, 1724.6367, 497.5083, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.2026, 1724.6367, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 632.2028, 1732.4670, 497.5083, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6525, 1737.4365, 497.5083, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6524, 1738.3571, 498.5082, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6524, 1738.3571, 499.4981, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6525, 1727.5178, 497.5083, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6925, 1726.6367, 499.8481, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6525, 1732.4670, 497.5083, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 620.6728, 1728.9671, 498.5082, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 629.2827, 1724.6463, 499.8481, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.6425, 1724.6367, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(1347, 631.4304, 1731.6833, 500.9993, 0.0000, 0.0000, 0.0000); //CJ_WASTEBIN
+	tmpobjid =  CreateObject(18762, 622.1225, 1731.8757, 501.2081, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 628.2028, 1728.8769, 501.2090, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 624.1326, 1728.8759, 501.2098, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 625.0923, 1728.8763, 503.2699, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.1127, 1728.8763, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.2030, 1728.8764, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 627.2022, 1728.8774, 503.2697, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.2030, 1731.8657, 504.0697, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.2030, 1731.8659, 503.0798, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.2030, 1731.8660, 502.2098, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.1225, 1731.8757, 502.1981, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.1225, 1731.8757, 503.1781, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.1225, 1731.8757, 504.1281, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 629.2231, 1733.8666, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 628.2333, 1733.8666, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 623.1032, 1733.8666, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 624.0833, 1733.8666, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 626.1423, 1733.8764, 504.0697, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 626.1221, 1731.8807, 504.1414, 90.0000, 90.0000, 90.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(18766, 626.1226, 1730.8208, 504.1424, 90.0000, 90.0000, 90.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFF991E1E);
+	tmpobjid =  CreateObject(1428, 623.1900, 1734.7751, 502.9566, 0.0000, 0.0000, 180.0000); //DYN_LADDER
+	tmpobjid =  CreateObject(18762, 625.0633, 1733.8666, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 623.6583, 1736.9361, 496.9349, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 629.2084, 1736.9361, 496.9349, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 625.6384, 1736.9361, 496.9339, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 625.6384, 1731.0163, 496.9349, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 623.6583, 1731.0067, 496.9354, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 629.2883, 1731.0067, 496.9354, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 629.2084, 1727.1162, 496.9339, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 623.6285, 1727.1162, 496.9349, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 626.5686, 1727.1077, 496.9335, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19430, 626.4361, 1720.0957, 496.9679, 0.0000, 90.0000, 90.0000); //wall070
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19430, 626.4353, 1722.3875, 496.9690, 0.0000, 90.0000, 90.0000); //wall070
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19789, 624.7652, 1729.0773, 504.5921, 0.0000, 0.0000, 151.4999); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 1736, "cj_ammo", "CJ_SLATEDWOOD2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19789, 625.9905, 1729.1839, 504.5928, 0.0000, 0.0000, 133.7999); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 1736, "cj_ammo", "CJ_SLATEDWOOD2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19789, 625.3105, 1729.1040, 505.5429, 0.0000, 0.0000, -167.5000); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 1736, "cj_ammo", "CJ_SLATEDWOOD2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19789, 623.1386, 1734.8714, 500.5129, 0.0000, 0.0000, 0.0000); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19789, 624.0786, 1734.8714, 500.5129, 0.0000, 0.0000, 0.0000); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18981, 625.6966, 1718.8691, 491.6947, 0.0000, 90.0000, 90.0000); //Concrete1mx25mx25m
+	SetObjectMaterial(tmpobjid, 0, 13295, "ce_terminal", "des_adobewall2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 624.1334, 1728.8764, 500.8898, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 628.0739, 1728.8771, 500.8898, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.1235, 1731.7966, 500.8898, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.1935, 1731.7966, 500.8898, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 630.2033, 1733.8666, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 629.2827, 1717.9256, 499.8481, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 628.1928, 1717.9262, 497.5083, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 625.2826, 1717.9256, 499.8481, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.6425, 1717.9256, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2026, 1717.9256, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 623.5026, 1717.9256, 499.8481, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 624.6426, 1717.9262, 497.5083, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6525, 1715.8984, 497.5075, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6525, 1715.9284, 499.8481, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2021, 1715.9284, 499.8481, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2028, 1715.9176, 497.5075, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2028, 1704.6274, 497.5075, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2028, 1709.6076, 497.5075, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2022, 1712.4571, 497.5069, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2022, 1712.4571, 498.5069, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2022, 1712.4571, 499.4969, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2021, 1710.9393, 499.8481, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2021, 1705.9699, 499.8481, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2021, 1704.6303, 499.8476, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2022, 1703.7066, 498.5069, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 632.2022, 1703.7155, 499.4769, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2025, 1701.7055, 498.5082, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2025, 1701.7055, 497.5082, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2025, 1701.7055, 499.4982, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2020, 1701.7060, 499.8370, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.6524, 1701.7054, 497.5183, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.6524, 1701.7054, 498.5082, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.6524, 1701.7054, 499.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.6618, 1701.7060, 499.8370, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 625.2826, 1701.7049, 499.8370, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6523, 1712.4571, 497.5069, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6523, 1712.4571, 498.4970, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6523, 1712.4571, 499.4970, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6527, 1712.4576, 499.8370, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6529, 1709.6076, 497.5075, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6526, 1704.6274, 497.5075, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6524, 1703.7066, 498.5069, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6524, 1703.7066, 499.5069, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6524, 1703.7066, 499.8370, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 620.6524, 1708.5166, 499.8370, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(19464, 629.2084, 1715.4467, 496.9339, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 629.2084, 1709.5169, 496.9339, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 629.2084, 1705.1567, 496.9345, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 623.5384, 1705.1567, 496.9345, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 623.5384, 1715.4573, 496.9345, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 623.5384, 1710.7172, 496.9338, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 624.7885, 1705.1470, 496.9330, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 624.7885, 1711.0866, 496.9330, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 624.7885, 1715.4665, 496.9335, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.6519, 1700.7363, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2020, 1700.7363, 497.5083, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2030, 1715.1157, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18766, 630.6223, 1713.6694, 500.0310, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 630.6223, 1706.1898, 500.0317, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 625.6226, 1705.4699, 500.0317, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 625.6224, 1713.6694, 500.0304, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 621.6820, 1705.4699, 500.0310, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 621.6925, 1713.6694, 500.0320, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.1127, 1715.1157, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 624.1334, 1715.1157, 500.8898, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 628.0739, 1715.1157, 500.8898, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 624.1326, 1715.1157, 501.2098, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 628.2028, 1715.1157, 501.2090, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 627.2022, 1715.1157, 503.2697, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 625.0923, 1715.1157, 503.2699, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.1235, 1712.1359, 500.8898, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.1235, 1712.1359, 501.8598, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.1235, 1712.1359, 502.8497, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.1235, 1712.1359, 503.8197, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2036, 1712.1359, 503.8197, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2036, 1712.1359, 502.8197, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2036, 1712.1359, 501.8297, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 630.2036, 1712.1359, 500.8597, 0.0000, 90.0000, 90.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(1347, 620.6205, 1712.5432, 500.9993, 0.0000, 0.0000, 0.0000); //CJ_WASTEBIN
+	tmpobjid =  CreateObject(18762, 630.2033, 1709.1473, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 629.2235, 1709.1473, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 628.2235, 1709.1473, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 622.1234, 1709.1473, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 623.1233, 1709.1473, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 624.1134, 1709.1473, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(18762, 626.1423, 1709.1463, 504.0697, 0.0000, 90.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(19464, 628.1282, 1731.3970, 500.4255, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 625.1487, 1731.3974, 500.4244, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 625.1487, 1711.6470, 500.4244, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19464, 627.3182, 1711.6464, 500.4238, 0.0000, 90.0000, 0.0000); //wall104
+	SetObjectMaterial(tmpobjid, 0, 14530, "estate2", "man_parquet", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 626.1232, 1711.1116, 504.1429, 90.0000, 90.0000, 90.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 626.1226, 1713.2714, 504.1424, 90.0000, 90.0000, 90.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(1437, 628.6336, 1700.1871, 495.5811, 0.0000, 0.0000, 0.0000); //DYN_LADDER_2
+	tmpobjid =  CreateObject(18766, 631.6427, 1705.4997, 500.0321, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19789, 629.1984, 1708.3314, 500.5129, 0.0000, 0.0000, 0.0000); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(19789, 628.2285, 1708.3314, 500.5129, 0.0000, 0.0000, 0.0000); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFF335F3F);
+	tmpobjid =  CreateObject(1428, 629.3101, 1708.4044, 503.0358, 8.2999, 0.0000, 0.0000); //DYN_LADDER
+	tmpobjid =  CreateObject(19789, 626.5082, 1714.2307, 505.5429, 0.0000, 0.0000, -167.5000); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 1736, "cj_ammo", "CJ_SLATEDWOOD2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19789, 627.0746, 1714.3560, 504.5929, 0.0000, 0.0000, 167.3000); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 1736, "cj_ammo", "CJ_SLATEDWOOD2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(19789, 625.9557, 1714.2142, 504.5929, 0.0000, 0.0000, 117.4000); //Cube1mx1m
+	SetObjectMaterial(tmpobjid, 0, 1736, "cj_ammo", "CJ_SLATEDWOOD2", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18766, 631.6629, 1713.6689, 500.0304, 90.0000, 90.0000, 0.0000); //Concrete10mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 3355, "cxref_savhus", "des_brick1", 0xFFFFFFFF);
+	tmpobjid =  CreateObject(18762, 622.1231, 1733.8671, 502.0698, 0.0000, 0.0000, 0.0000); //Concrete1mx1mx5m
+	SetObjectMaterial(tmpobjid, 0, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);

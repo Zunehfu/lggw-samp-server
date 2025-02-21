@@ -1,0 +1,9 @@
+/* Exported using GEditor made by GameOvr */
+
+//Objects
+new objid;
+objid = CreateDynamicObject(988, 1441.718505, -873.167785, 53.660003, 0.000000, 0.000000, 0.000000);
+
+//Actors
+
+//Vehicles

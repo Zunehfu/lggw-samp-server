@@ -1,0 +1,95 @@
+/*
+Exported using MapForce MapEditor
+---------------------------------
+Creator: GameOvr
+Created On: [ 2020.6.0 | 20.34.39 ]
+Objects: 26
+Vehicles: 0
+Actors: 0
+*/
+
+//Objects
+new objid;
+objid = CreateDynamicObject(2932, 1373.822387, -810.377502, 76.458999, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1373.822387, -810.377502, 83.608802, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1378.973999, -810.377990, 74.469062, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1386.257202, -810.390502, 76.759445, 109.899993, 89.599998, 90.099998);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1388.690185, -810.387451, 83.472991, 109.899993, 89.599998, 90.099998);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1394.060546, -810.402221, 83.492317, 69.899993, 89.599998, 90.100006);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1396.503051, -810.398559, 76.815277, 69.899993, 89.599998, 90.100006);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1391.420043, -810.367919, 78.969047, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1404.133911, -810.377990, 74.469062, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1411.273315, -810.377990, 74.469062, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1404.156982, -810.357910, 77.374412, 134.899993, 89.599998, 90.099998);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1409.203002, -810.348693, 82.439155, 134.899993, 89.599998, 90.099998);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1409.282714, -810.358154, 85.408943, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1402.129516, -810.358154, 85.408943, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1418.154663, -810.377502, 76.458999, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1418.154663, -810.377502, 83.558876, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1423.292358, -810.377990, 74.469062, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1423.292358, -810.377990, 80.158866, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1423.292358, -810.377990, 85.578857, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1430.015258, -810.377502, 76.439186, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1430.015258, -810.377502, 83.549026, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1435.142822, -810.377990, 85.578857, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1437.147705, -810.367492, 83.549026, 90.000000, 180.000000, 0.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1435.142822, -810.388000, 80.499053, 180.000000, 270.000000, 270.000000);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1432.300415, -810.357971, 78.925209, 39.899993, 89.599998, 90.100006);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+objid = CreateDynamicObject(2932, 1436.214111, -810.422851, 75.653228, 39.899993, 89.599998, 90.100006);
+SetDynamicObjectMaterial(objid, 0, 16640, a51, sl_metalwalk);
+SetDynamicObjectMaterial(objid, 1, 16640, a51, sl_metalwalk);
+
+//Actors
+new actorid;
+
+//Vehicles

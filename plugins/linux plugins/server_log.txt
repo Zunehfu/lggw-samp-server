@@ -1,0 +1,62 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:11:48] 
+[14:11:48] Server Plugins
+[14:11:48] --------------
+[14:11:48]  Loaded 0 plugins.
+
+[14:11:48] 
+[14:11:48] Filterscripts
+[14:11:48] ---------------
+[14:11:48]   Loading filterscript 'MapEditorannounce.amx'...
+[14:11:48]   Unable to load filterscript 'MapEditorannounce.amx'.
+[14:11:48]   Loading filterscript '0.amx'...
+[14:11:48]   Unable to load filterscript '0.amx'.
+[14:11:48]   Loaded 0 filterscripts.
+
+[14:11:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:11:48] 
+----------------------------------
+[14:11:48]   Bare Script
+
+[14:11:48] ----------------------------------
+
+[14:11:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:26:18] 
+[14:26:18] Server Plugins
+[14:26:18] --------------
+[14:26:18]  Loaded 0 plugins.
+
+[14:26:18] 
+[14:26:18] Filterscripts
+[14:26:18] ---------------
+[14:26:18]   Loading filterscript 'MapEditorannounce.amx'...
+[14:26:18]   Unable to load filterscript 'MapEditorannounce.amx'.
+[14:26:18]   Loading filterscript '0.amx'...
+[14:26:18]   Unable to load filterscript '0.amx'.
+[14:26:18]   Loaded 0 filterscripts.
+
+[14:26:18] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:26:18] 
+----------------------------------
+[14:26:18]   Bare Script
+
+[14:26:18] ----------------------------------
+
+[14:26:18] Number of vehicle models: 0

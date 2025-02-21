@@ -1,0 +1,9 @@
+/* Exported using GEditor made by GameOvr */
+
+//Objectsnew objid;
+objid = CreateDynamicObject(988, 2049.062744, 1364.120727, 10.671875, 0.000000, 0.000000, 0.000000);
+SetDynamicObjectMaterialText(objid, 0, "GEditor", OBJECT_MATERIAL_SIZE_256x128, "Arial", 70, 1, 0xFFFFFFFF, 0x22330033);
+
+//Actors
+
+//Vehicles
